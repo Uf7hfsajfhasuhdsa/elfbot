@@ -1,0 +1,966 @@
+15:41:54.421 Elfbot NG 4.5.9 - Entry Started on terça-feira janeiro 25, 2022
+15:41:54.421 TimerThread not responding...   Restarting. Error: -10 6233B08C 16EBFF7C 16EBFF74 0 ms
+16:12:34.359 TimerThread not responding...   Restarting. Error: -10 6233B08C 141EFF7C 141EFF74 0 ms
+17:28:05.984 TimerThread locked up...        Redirecting. Error: -10 6233B08C 141EFF7C 141EFF74 625 ms
+17:28:05.984 Locked on hotkey: ' say Chakra Rest' on command 'say' 0 ms Error: 502 6233B08C 141EFF1C 141EF730
+19:20:22.812 TimerThread not responding...   Restarting. Error: -10 6233B08C 141EE178 141EFF74 0 ms
+19:20:23.546 TimerThread locked up...        Redirecting. Error: 100 6233AD8C 141EFF7C 141EFF74 593 ms
+19:20:23.671 Locked on hotkey: ' listas 'Dancing' | wait 1 | turnn | wait 1 | turnw | wait 1 | turns | wait 1 | turne' on command 'turnn' 703 ms Error: 502 6233AD8C 141EFF1C 141EF730
+19:20:23.781 TimerThread not responding...   Restarting. Error: 100 203BB 141EFF7C 141EFF74 828 ms
+19:20:23.781 Locked on hotkey: ' listas 'Dancing' | wait 1 | turnn | wait 1 | turnw | wait 1 | turns | wait 1 | turne' on command 'turnn' 828 ms Error: 502 203BB 141EFF1C 141EF730
+19:20:24.531 TimerThread locked up...        Redirecting. Error: 100 6233AD8C 141EFF7C 141EFF74 500 ms
+19:20:24.640 Locked on hotkey: ' say Chakra Rest' on command 'say' 609 ms Error: 502 6233AD8C 141EFF1C 141EF730
+19:20:24.765 TimerThread not responding...   Restarting. Error: 100 203BB 141EFF7C 141EFF74 734 ms
+19:20:24.765 Locked on hotkey: ' say Chakra Rest' on command 'say' 734 ms Error: 502 203BB 141EFF1C 141EF730
+20:36:45.156 Elfbot NG 4.5.9 - Entry Started on terça-feira janeiro 25, 2022
+20:36:45.156 TimerThread not responding...   Restarting. Error: -10 6219B08C 16A2FF7C 16A2FF74 0 ms
+20:38:01.671 Elfbot NG 4.5.9 - Entry Started on terça-feira janeiro 25, 2022
+20:38:01.781 TimerThread not responding...   Restarting. Error: -10 61E3B08C 1705FF7C 1705FF74 0 ms
+21:05:36.468 Elfbot NG 4.5.9 - Entry Started on terça-feira janeiro 25, 2022
+21:05:36.468 TimerThread not responding...   Restarting. Error: -10 621BB08C 1701FF7C 1701FF74 0 ms
+14:04:04.375 Elfbot NG 4.5.9 - Entry Started on quarta-feira janeiro 26, 2022
+14:04:04.406 TimerThread not responding...   Restarting. Error: -10 6221B08C 16CBFF7C 16CBFF74 16 ms
+18:47:36.343 TimerThread not responding...   Restarting. Error: -10 6221B08C 1440FF7C 1440FF74 0 ms
+12:46:24.531 Elfbot NG 4.5.9 - Entry Started on quinta-feira janeiro 27, 2022
+12:46:24.625 TimerThread not responding...   Restarting. Error: -10 622EB08C 16FBFF7C 16FBFF74 0 ms
+14:38:09.765 TimerThread not responding...   Restarting. Error: -10 622EB08C 1409FF7C 1409FF74 16 ms
+17:13:45.625 Elfbot NG 4.5.9 - Entry Started on quinta-feira janeiro 27, 2022
+17:13:45.625 TimerThread not responding...   Restarting. Error: -10 6235B08C 16ECFF7C 16ECFF74 16 ms
+07:25:59.187 Elfbot NG 4.5.9 - Entry Started on sexta-feira janeiro 28, 2022
+07:25:59.187 Elfbot NG 4.5.9 - Entry Started on sexta-feira janeiro 28, 2022
+07:25:59.187 TimerThread not responding...   Restarting. Error: 100 6218B08C 1734FF7C 1734FF74 2000 ms
+07:25:59.187 TimerThread not responding...   Restarting. Error: 100 6223B08C 16FAFF7C 16FAFF74 2000 ms
+07:25:59.187 Locked on hotkey: ' ifnot $connected { reconnect | wait 6000 }' on command 'reconnect' 2000 ms Error: 502 6223B08C 16FAFF1C 16FAF730
+07:25:59.187 TimerThread not responding...   Restarting. Error: 100 622EB08C 1409FF7C 1409FF74 1906 ms
+07:25:59.187 Locked on hotkey: ' ifnot $connected { reconnect | wait 6000 }' on command 'reconnect' 1906 ms Error: 502 622EB08C 1409FF1C 1409F730
+07:25:59.187 Locked on hotkey: ' ifnot $connected { reconnect | wait 6000 }' on command 'reconnect' 2000 ms Error: 502 6218B08C 1734FF1C 1734F730
+07:39:00.500 TimerThread not responding...   Restarting. Error: -10 6218B08C 14A1FF7C 14A1FF74 0 ms
+18:48:54.140 TimerThread not responding...   Restarting. Error: -10 622EB08C 146DFF7C 146DFF74 0 ms
+20:37:27.671 TimerThread not responding...   Restarting. Error: -10 622EB08C 1419FF7C 1419FF74 0 ms
+21:14:34.781 TimerThread locked up...        Redirecting. Error: -10 622EB08C 1419FF7C 1419FF74 0 ms
+08:56:04.515 TimerThread not responding...   Restarting. Error: 100 6218B08C 141DFF7C 141DFF74 1578 ms
+08:56:04.515 Locked on hotkey: ' ifnot $connected { reconnect | wait 6000 }' on command 'reconnect' 1578 ms Error: 502 6218B08C 141DFF1C 141DF730
+08:56:04.515 TimerThread not responding...   Restarting. Error: 100 6223B08C 1483FF7C 1483FF74 1625 ms
+08:56:04.515 Locked on hotkey: ' ifnot $connected { reconnect | wait 6000 }' on command 'reconnect' 1625 ms Error: 502 6223B08C 1483FF1C 1483F730
+08:56:04.515 TimerThread not responding...   Restarting. Error: 100 622EB08C 1419FF7C 1419FF74 1672 ms
+08:56:04.515 Locked on hotkey: ' ifnot $connected { reconnect | wait 6000 }' on command 'reconnect' 1672 ms Error: 502 622EB08C 1419FF1C 1419F730
+11:14:26.062 Elfbot NG 4.5.9 - Entry Started on sábado janeiro 29, 2022
+11:14:26.062 TimerThread not responding...   Restarting. Error: -10 6220B08C 16ECFF7C 16ECFF74 0 ms
+11:52:58.968 Elfbot NG 4.5.9 - Entry Started on sábado janeiro 29, 2022
+11:52:58.109 TimerThread not responding...   Restarting. Error: -10 621EB08C 170AFF7C 170AFF74 16 ms
+12:13:27.890 TimerThread locked up...        Redirecting. Error: 100 61E562F2 16ECFF7C 16ECFF74 547 ms
+12:13:27.906 Locked on hotkey: ' listas 'LUCAS PERNATORTA' | if [$key.37] {usegroundxyz [$posx-7] $posy $posz | end} if [$key.39] {usegroundxyz [$posx+7] $posy $posz | end} if [$key.40] {usegroundxyz $posx [$posy+6] $posz | end} if [$key.38] {usegroundxyz $posx [$posy-6] $posz | end} if [$key.67] {usegroundxyz [$posx+6] [$posy+5] $posz | end} if [$key.90] {usegroundxyz [$posx-6] [$posy+5] $posz | end}' on command 'if' 328 ms Error: 502 61E562F2 16ECFF1C 16ECF730
+20:13:17.125 TimerThread not responding...   Restarting. Error: -10 6220B08C 16EC8D4C 16ECFF74 0 ms
+05:20:22.640 Elfbot NG 4.5.9 - Entry Started on domingo janeiro 30, 2022
+05:20:22.640 TimerThread not responding...   Restarting. Error: -10 6228B08C 16F4FF7C 16F4FF74 16 ms
+14:19:18.546 Elfbot NG 4.5.9 - Entry Started on domingo janeiro 30, 2022
+14:19:18.656 TimerThread not responding...   Restarting. Error: -10 623DB08C 16D9FF7C 16D9FF74 0 ms
+17:38:50.328 Elfbot NG 4.5.9 - Entry Started on domingo janeiro 30, 2022
+17:38:50.343 TimerThread not responding...   Restarting. Error: -10 61F9B08C 1723FF7C 1723FF74 0 ms
+18:42:09.703 Elfbot NG 4.5.9 - Entry Started on domingo janeiro 30, 2022
+18:42:09.703 TimerThread not responding...   Restarting. Error: -10 6224B08C 16F0FF7C 16F0FF74 0 ms
+21:03:19.359 Elfbot NG 4.5.9 - Entry Started on domingo janeiro 30, 2022
+21:03:20.562 TimerThread not responding...   Restarting. Error: -10 620AB08C 1702FF7C 1702FF74 0 ms
+21:05:33.296 TimerThread not responding...   Restarting. Error: -10 623DB08C 1444FF7C 1444FF74 0 ms
+22:06:59.937 TimerThread not responding...   Restarting. Error: -10 620AB08C 141AFF7C 141AFF74 0 ms
+09:14:27.062 TimerThread not responding...   Restarting. Error: -10 620AB08C 141AFF7C 141AFF74 15 ms
+10:31:34.171 TimerThread not responding...   Restarting. Error: -10 6224B08C 140EFF7C 140EFF74 0 ms
+10:33:02.640 TimerThread not responding...   Restarting. Error: -10 620AB08C 141AFF7C 141AFF74 0 ms
+03:06:26.124 Elfbot NG 4.5.9 - Entry Started on quinta-feira março 24, 2022
+03:06:26.139 TimerThread locked up...        Redirecting. Error: 170 67DBD4F1 1046FF78 1046FF70 0 ms
+03:58:28.156 Elfbot NG 4.5.9 - Entry Started on quinta-feira março 24, 2022
+03:58:28.172 TimerThread locked up...        Redirecting. Error: 100 292DF B37FF78 B37FF70 468 ms
+03:58:28.172 Locked on hotkey: Error #501 47 ms
+03:58:28.187 TimerThread locked up...        Redirecting. Error: 100 67DBD4F1 1046FF78 1046FF70 0 ms
+03:58:28.187 Locked on hotkey: ' attack target' on command 'attack' 0 ms Error: 502 67DBD4F1 1046FF18 1046F72C
+04:24:12.051 TimerThread locked up...        Redirecting. Error: 100 28D9E B37FF78 B37FF70 546 ms
+04:24:12.051 Locked on hotkey: Error #501 546 ms
+06:03:22.694 TimerThread locked up...        Redirecting. Error: 100 6A841766 B37FF78 B37FF70 63 ms
+06:03:22.694 Locked on hotkey: ' listas 'Combo2' (Ativado)' | isattacking {if [$attack== 0] {say ' Katon Sohenka no Jutsu ' |' on command 'listas' 63 ms Error: 502 6A841766 B37FF18 B37F72C
+16:28:41.776 Elfbot NG 4.5.9 - Entry Started on quinta-feira março 24, 2022
+16:28:41.776 TimerThread locked up...        Redirecting. Error: 130 6C364E99 AEBFF78 AEBFF70 514 ms
+00:53:21.274 Elfbot NG 4.5.9 - Entry Started on sexta-feira março 25, 2022
+00:53:21.274 TimerThread locked up...        Redirecting. Error: 100 F62A61A2 ABCFF78 ABCFF70 671 ms
+00:53:21.274 Locked on hotkey: ' if [$hp == 0] { reconnect | gotolabel Start } | wait 1000' on command 'reconnect' 671 ms Error: 502 F62A61A2 ABCFF18 ABCF72C
+00:53:56.718 TimerThread locked up...        Redirecting. Error: 100 6D60D961 ABCFF78 ABCFF70 484 ms
+00:53:56.718 Locked on hotkey: ' if [$hp == 0] { reconnect | gotolabel Start } | wait 1000' on command 'reconnect' 484 ms Error: 502 6D60D961 ABCFF18 ABCF72C
+00:54:00.618 TimerThread locked up...        Redirecting. Error: 100 6D61BD78 ABCFF78 ABCFF70 515 ms
+00:54:00.618 Locked on hotkey: ' if [$hp == 0] { reconnect | gotolabel Start } | wait 1000' on command 'reconnect' 515 ms Error: 502 6D61BD78 ABCFF18 ABCF72C
+00:54:07.842 TimerThread locked up...        Redirecting. Error: 100 F62CE842 ABCFF78 ABCFF70 577 ms
+00:54:07.842 Locked on hotkey: ' if [$hp == 0] { reconnect | gotolabel Start } | wait 1000' on command 'reconnect' 577 ms Error: 502 F62CE842 ABCFF18 ABCF72C
+07:51:17.748 Elfbot NG 4.5.9 - Entry Started on sexta-feira março 25, 2022
+07:51:17.748 TimerThread locked up...        Redirecting. Error: -10 28D2B B9EFF78 B9EFF70 0 ms
+07:51:23.396 TimerThread locked up...        Redirecting. Error: -10 6C374408 B9EFF78 B9EFF70 0 ms
+22:22:45.228 Elfbot NG 4.5.9 - Entry Started on sexta-feira março 25, 2022
+22:22:45.228 TimerThread not responding...   Restarting. Error: 100 6B5B4E99 A18FF78 A18FF70 780 ms
+22:22:45.228 Locked on hotkey: ' if [$hp == 0] { reconnect | gotolabel Start2 } | wait 1000' on command 'reconnect' 780 ms Error: 502 6B5B4E99 A18FF18 A18F72C
+22:23:04.916 TimerThread not responding...   Restarting. Error: 100 6B5B4E99 CD1FF78 CD1FF70 686 ms
+22:23:04.916 Locked on hotkey: ' if [$hp == 0] { reconnect | gotolabel Start2 } | wait 1000' on command 'reconnect' 686 ms Error: 502 6B5B4E99 CD1FF18 CD1F72C
+00:23:08.089 Elfbot NG 4.5.9 - Entry Started on sábado março 26, 2022
+00:23:08.089 TimerThread not responding...   Restarting. Error: 100 F689D2C9 B77FF78 B77FF70 1544 ms
+00:23:08.089 Locked on hotkey: ' if [$hp == 0] { reconnect | gotolabel Start2 } | wait 1000' on command 'reconnect' 1544 ms Error: 502 F689D2C9 B77FF18 B77F72C
+00:47:29.569 TimerThread locked up...        Redirecting. Error: 100 F68976E2 1050FF78 1050FF70 530 ms
+00:47:29.569 Locked on hotkey: ' if [$hp == 0] { reconnect | gotolabel Start2 } | wait 1000' on command 'reconnect' 515 ms Error: 502 F68976E2 1050FF18 1050F72C
+00:59:12.042 TimerThread not responding...   Restarting. Error: 100 F68F1FF5 1050FF78 1050FF70 1420 ms
+00:59:12.042 Locked on hotkey: ' if [$hp == 0] { reconnect | gotolabel Start2 } | wait 1000' on command 'reconnect' 1420 ms Error: 502 F68F1FF5 1050FF18 1050F72C
+01:06:31.684 Elfbot NG 4.5.9 - Entry Started on sábado março 26, 2022
+01:06:31.684 TimerThread not responding...   Restarting. Error: 100 6C204E99 AB9FF78 AB9FF70 1763 ms
+01:06:31.684 Locked on hotkey: ' if [$hp == 0] { reconnect | gotolabel Start2 } | wait 1000' on command 'reconnect' 1763 ms Error: 502 6C204E99 AB9FF18 AB9F72C
+01:53:24.929 Elfbot NG 4.5.9 - Entry Started on sábado março 26, 2022
+01:53:24.929 TimerThread locked up...        Redirecting. Error: 100 28D9E ABDFF78 ABDFF70 608 ms
+01:53:26.833 TimerThread not responding...   Restarting. Error: 100 6C3D4E99 ABDFF78 ABDFF70 1389 ms
+01:53:26.833 Locked on hotkey: ' if [$hp == 0] { reconnect | gotolabel Start2 } | wait 1000' on command 'reconnect' 1389 ms Error: 502 6C3D4E99 ABDFF18 ABDF72C
+09:28:26.007 Elfbot NG 4.5.9 - Entry Started on sábado março 26, 2022
+09:28:26.007 TimerThread not responding...   Restarting. Error: 100 F621DCD0 ADCFF78 ADCFF70 1450 ms
+09:28:26.007 Locked on hotkey: ' if [$hp == 0] { reconnect | gotolabel Start2 } | wait 1000' on command 'reconnect' 1450 ms Error: 502 F621DCD0 ADCFF18 ADCF72C
+10:23:07.974 Elfbot NG 4.5.9 - Entry Started on sábado março 26, 2022
+10:23:07.974 TimerThread not responding...   Restarting. Error: 100 F620B501 AD4FF78 AD4FF70 1763 ms
+10:23:07.974 Locked on hotkey: ' if [$hp == 0] { reconnect | gotolabel Start2 } | wait 1000' on command 'reconnect' 1763 ms Error: 502 F620B501 AD4FF18 AD4F72C
+10:23:20.203 TimerThread locked up...        Redirecting. Error: 100 F6250B70 1060FF78 1060FF70 531 ms
+10:23:20.203 Locked on hotkey: ' if [$hp == 0] { reconnect | gotolabel Start2 } | wait 1000' on command 'reconnect' 531 ms Error: 502 F6250B70 1060FF18 1060F72C
+18:44:01.369 Elfbot NG 4.5.9 - Entry Started on sábado março 26, 2022
+18:44:01.385 TimerThread locked up...        Redirecting. Error: 100 6AA44E99 B16FF78 B16FF70 515 ms
+18:44:01.385 Locked on hotkey: ' if [$hp == 0] { reconnect | gotolabel Start2 } | wait 1000' on command 'reconnect' 531 ms Error: 502 6AA44E99 B16FF18 B16F72C
+23:52:56.331 TimerThread locked up...        Redirecting. Error: 100 6CBDD961 B16FF78 B16FF70 546 ms
+23:52:56.331 Locked on hotkey: ' if [$hp == 0] { reconnect | gotolabel Start2 } | wait 1000' on command 'reconnect' 546 ms Error: 502 6CBDD961 B16FF18 B16F72C
+23:52:59.217 TimerThread locked up...        Redirecting. Error: 100 F5DD3306 B16FF78 B16FF70 592 ms
+23:52:59.217 Locked on hotkey: ' if [$hp == 0] { reconnect | gotolabel Start2 } | wait 1000' on command 'reconnect' 592 ms Error: 502 F5DD3306 B16FF18 B16F72C
+23:53:04.365 TimerThread locked up...        Redirecting. Error: 100 28DD5 B16FF78 B16FF70 624 ms
+23:53:10.980 TimerThread locked up...        Redirecting. Error: 100 6B5BD4B2 B16FF78 B16FF70 499 ms
+23:53:13.476 TimerThread not responding...   Restarting. Error: 100 6CBEBBC1 B16FF78 B16FF70 749 ms
+23:53:13.476 Locked on hotkey: ' if [$hp == 0] { reconnect | gotolabel Start2 } | wait 1000' on command 'reconnect' 749 ms Error: 502 6CBEBBC1 B16FF18 B16F72C
+23:53:50.261 TimerThread locked up...        Redirecting. Error: 100 6CBDD961 B16FF78 B16FF70 515 ms
+23:53:50.308 Locked on hotkey: ' if [$hp == 0] { reconnect | gotolabel Start2 } | wait 1000' on command 'reconnect' 562 ms Error: 502 6CBDD961 B16FF18 B16F72C
+23:57:00.613 TimerThread not responding...   Restarting. Error: 100 6AA44E99 B16FF78 B16FF70 1560 ms
+23:57:00.613 Locked on hotkey: ' if [$hp == 0] { reconnect | gotolabel Start2 } | wait 1000' on command 'reconnect' 1560 ms Error: 502 6AA44E99 B16FF18 B16F72C
+00:25:53.504 Elfbot NG 4.5.9 - Entry Started on domingo março 27, 2022
+00:25:53.504 TimerThread not responding...   Restarting. Error: 100 F5E24FA0 9EAFF78 9EAFF70 1108 ms
+00:25:53.504 Locked on hotkey: ' if [$hp == 0] { reconnect | gotolabel Start2 } | wait 1000' on command 'reconnect' 1108 ms Error: 502 F5E24FA0 9EAFF18 9EAF72C
+02:56:05.680 Elfbot NG 4.5.9 - Entry Started on domingo março 27, 2022
+02:56:05.680 TimerThread not responding...   Restarting. Error: 100 6AC04E99 929FF78 929FF70 858 ms
+02:56:05.680 Locked on hotkey: ' if [$hp == 0] { reconnect | gotolabel Start2 } | wait 1000' on command 'reconnect' 858 ms Error: 502 6AC04E99 929FF18 929F72C
+02:56:15.258 TimerThread locked up...        Redirecting. Error: 100 F5EA34F0 E55FF78 E55FF70 530 ms
+02:56:15.258 Locked on hotkey: ' if [$hp == 0] { reconnect | gotolabel Start2 } | wait 1000' on command 'reconnect' 530 ms Error: 502 F5EA34F0 E55FF18 E55F72C
+02:56:26.225 TimerThread not responding...   Restarting. Error: 100 F5F932A4 E55FF78 E55FF70 827 ms
+02:56:26.225 Locked on hotkey: ' if [$hp == 0] { reconnect | gotolabel Start2 } | wait 1000' on command 'reconnect' 827 ms Error: 502 F5F932A4 E55FF18 E55F72C
+02:56:58.486 TimerThread locked up...        Redirecting. Error: 100 6AC04E99 929FF78 929FF70 640 ms
+02:56:58.486 Locked on hotkey: ' if [$hp == 0] { reconnect | gotolabel Start2 } | wait 1000' on command 'reconnect' 640 ms Error: 502 6AC04E99 929FF18 929F72C
+03:17:49.442 Elfbot NG 4.5.9 - Entry Started on domingo março 27, 2022
+03:17:49.442 TimerThread not responding...   Restarting. Error: 100 6B014E99 AC4FF78 AC4FF70 1373 ms
+03:17:49.442 Locked on hotkey: ' if [$hp == 0] { reconnect | gotolabel Start2 } | wait 1000' on command 'reconnect' 1373 ms Error: 502 6B014E99 AC4FF18 AC4F72C
+03:17:53.452 TimerThread locked up...        Redirecting. Error: 100 6D1AD961 1040FF78 1040FF70 593 ms
+03:17:53.452 Locked on hotkey: ' if [$hp == 0] { reconnect | gotolabel Start2 } | wait 1000' on command 'reconnect' 593 ms Error: 502 6D1AD961 1040FF18 1040F72C
+03:18:32.389 TimerThread not responding...   Restarting. Error: 100 28D9E 1040FF78 1040FF70 717 ms
+03:18:49.783 TimerThread locked up...        Redirecting. Error: 100 F62F0A90 40FFF78 40FFF70 530 ms
+03:18:49.783 Locked on hotkey: ' if [$hp == 0] { reconnect | gotolabel Start2 } | wait 1000' on command 'reconnect' 530 ms Error: 502 F62F0A90 40FFF18 40FF72C
+03:18:57.069 TimerThread locked up...        Redirecting. Error: 100 6B014B24 40FFF78 40FFF70 515 ms
+03:18:57.069 Locked on hotkey: ' if [$hp == 0] { reconnect | gotolabel Start2 } | wait 1000' on command 'reconnect' 515 ms Error: 502 6B014B24 40FFF18 40FF72C
+03:39:40.412 Elfbot NG 4.5.9 - Entry Started on domingo março 27, 2022
+03:39:40.412 TimerThread not responding...   Restarting. Error: -10 6D18D961 AC6FF78 AC6FF70 0 ms
+03:56:48.833 Elfbot NG 4.5.9 - Entry Started on domingo março 27, 2022
+03:56:48.833 TimerThread not responding...   Restarting. Error: 100 6AAF4E99 CB8FF78 CB8FF70 749 ms
+03:56:48.833 Locked on hotkey: ' if [$hp == 0] { reconnect | gotolabel Start } | wait 1000' on command 'reconnect' 749 ms Error: 502 6AAF4E99 CB8FF18 CB8F72C
+04:01:10.901 Elfbot NG 4.5.9 - Entry Started on domingo março 27, 2022
+04:01:10.901 TimerThread locked up...        Redirecting. Error: -10 6CEFD961 A45FF78 A45FF70 671 ms
+05:46:37.943 TimerThread not responding...   Restarting. Error: 100 6AAF4E99 DC0FF78 DC0FF70 796 ms
+05:46:37.943 Locked on hotkey: ' if [$hp == 0] { reconnect | gotolabel Start } | wait 1000' on command 'reconnect' 796 ms Error: 502 6AAF4E99 DC0FF18 DC0F72C
+05:46:43.791 TimerThread not responding...   Restarting. Error: 100 6AAF4E99 654FF78 654FF70 873 ms
+05:46:43.791 Locked on hotkey: ' if [$hp == 0] { reconnect | gotolabel Start } | wait 1000' on command 'reconnect' 873 ms Error: 502 6AAF4E99 654FF18 654F72C
+05:46:49.267 TimerThread not responding...   Restarting. Error: 100 F5DC912A 61CFF78 61CFF70 952 ms
+05:46:49.267 Locked on hotkey: ' if [$hp == 0] { reconnect | gotolabel Start } | wait 1000' on command 'reconnect' 952 ms Error: 502 F5DC912A 61CFF18 61CF72C
+07:39:57.697 Elfbot NG 4.5.9 - Entry Started on domingo março 27, 2022
+07:39:57.697 TimerThread not responding...   Restarting. Error: 100 F5ED5447 BFEFF78 BFEFF70 1217 ms
+07:39:57.697 Locked on hotkey: ' if [$hp == 0] { reconnect | gotolabel Start } | wait 1000' on command 'reconnect' 1217 ms Error: 502 F5ED5447 BFEFF18 BFEF72C
+08:13:59.516 Elfbot NG 4.5.9 - Entry Started on domingo março 27, 2022
+08:13:59.516 TimerThread not responding...   Restarting. Error: 100 6C7FBD09 9D5FF78 9D5FF70 1731 ms
+08:13:59.516 Locked on hotkey: ' if [$hp == 0] { reconnect | gotolabel Start2 } | wait 1000' on command 'reconnect' 1731 ms Error: 502 6C7FBD09 9D5FF18 9D5F72C
+08:44:50.733 TimerThread not responding...   Restarting. Error: 100 F5F1E5D4 F58FF78 F58FF70 842 ms
+08:44:50.733 Locked on hotkey: ' if [$hp == 0] { reconnect | gotolabel Start } | wait 1000' on command 'reconnect' 842 ms Error: 502 F5F1E5D4 F58FF18 F58F72C
+10:41:05.398 TimerThread locked up...        Redirecting. Error: -10 28D9E 654FF78 654FF70 0 ms
+11:50:45.335 TimerThread locked up...        Redirecting. Error: 100 6AAF4E99 654FF78 654FF70 561 ms
+11:50:45.335 Locked on hotkey: ' if [$hp == 0] { reconnect | gotolabel Start } | wait 1000' on command 'reconnect' 561 ms Error: 502 6AAF4E99 654FF18 654F72C
+11:50:47.973 TimerThread locked up...        Redirecting. Error: -10 6B67D860 654FF78 654FF70 0 ms
+12:39:37.842 TimerThread not responding...   Restarting. Error: 100 6AD64E99 A45FF78 A45FF70 3494 ms
+12:39:37.842 Locked on hotkey: ' if [$hp == 0] { reconnect | gotolabel Start } | wait 1000' on command 'reconnect' 3494 ms Error: 502 6AD64E99 A45FF18 A45F72C
+12:40:17.920 TimerThread locked up...        Redirecting. Error: 100 6AD64E99 EF2FF78 EF2FF70 561 ms
+12:40:17.920 Locked on hotkey: ' if [$hp == 0] { reconnect | gotolabel Start } | wait 1000' on command 'reconnect' 561 ms Error: 502 6AD64E99 EF2FF18 EF2F72C
+12:40:49.994 TimerThread locked up...        Redirecting. Error: 100 6AD64E99 EF2FF78 EF2FF70 624 ms
+12:40:49.994 Locked on hotkey: ' if [$hp == 0] { reconnect | gotolabel Start } | wait 1000' on command 'reconnect' 624 ms Error: 502 6AD64E99 EF2FF18 EF2F72C
+14:23:30.675 TimerThread locked up...        Redirecting. Error: 100 6A654E99 E30FF78 E30FF70 500 ms
+14:23:30.675 Locked on hotkey: ' if [$hp == 0] { reconnect | gotolabel Start2 } | wait 1000' on command 'reconnect' 500 ms Error: 502 6A654E99 E30FF18 E30F72C
+17:59:04.031 TimerThread locked up...        Redirecting. Error: 100 6AC34E99 D38FF78 D38FF70 577 ms
+17:59:04.031 Locked on hotkey: ' if [$hp == 0] { reconnect | gotolabel Start } | wait 1000' on command 'reconnect' 577 ms Error: 502 6AC34E99 D38FF18 D38F72C
+18:47:17.709 Elfbot NG 4.5.9 - Entry Started on domingo março 27, 2022
+18:47:17.709 TimerThread locked up...        Redirecting. Error: 100 F63438F7 ACAFF78 ACAFF70 514 ms
+18:47:17.709 Locked on hotkey: ' if [$hp == 0] { reconnect | gotolabel Start } | wait 1000' on command 'reconnect' 514 ms Error: 502 F63438F7 ACAFF18 ACAF72C
+21:59:01.192 TimerThread not responding...   Restarting. Error: 100 F5EDB3A0 D38FF78 D38FF70 687 ms
+21:59:01.207 Locked on hotkey: ' if [$hp == 0] { reconnect | gotolabel Start } | wait 1000' on command 'reconnect' 702 ms Error: 502 F5EDB3A0 D38FF18 D38F72C
+21:59:15.419 TimerThread not responding...   Restarting. Error: 100 6AD64E99 EF2FF78 EF2FF70 2262 ms
+21:59:15.419 Locked on hotkey: ' if [$hp == 0] { reconnect | gotolabel Start } | wait 1000' on command 'reconnect' 2262 ms Error: 502 6AD64E99 EF2FF18 EF2F72C
+22:15:15.434 TimerThread locked up...        Redirecting. Error: 100 6AD64E99 1170FF78 1170FF70 531 ms
+22:15:15.434 Locked on hotkey: ' if [$hp == 0] { reconnect | gotolabel Start } | wait 1000' on command 'reconnect' 531 ms Error: 502 6AD64E99 1170FF18 1170F72C
+23:09:45.293 TimerThread not responding...   Restarting. Error: 100 6B0A4E99 ACAFF78 ACAFF70 1685 ms
+23:09:45.293 Locked on hotkey: ' if [$hp == 0] { reconnect | gotolabel Start } | wait 1000' on command 'reconnect' 1685 ms Error: 502 6B0A4E99 ACAFF18 ACAF72C
+07:08:47.854 Elfbot NG 4.5.9 - Entry Started on segunda-feira março 28, 2022
+07:08:47.854 TimerThread locked up...        Redirecting. Error: 100 6B004E99 ADAFF78 ADAFF70 546 ms
+07:21:42.304 Elfbot NG 4.5.9 - Entry Started on segunda-feira março 28, 2022
+07:21:42.304 TimerThread not responding...   Restarting. Error: 100 F555D1D4 AACFF78 AACFF70 1622 ms
+07:21:42.304 Locked on hotkey: ' if [$hp == 0] { reconnect | gotolabel Start } | wait 1000' on command 'reconnect' 1622 ms Error: 502 F555D1D4 AACFF18 AACF72C
+07:21:43.193 TimerThread locked up...        Redirecting. Error: 100 6A2CEBEF D4EFF78 D4EFF70 546 ms
+07:21:43.474 TimerThread not responding...   Restarting. Error: 100 6A2CEBEF D4EFF78 D4EFF70 827 ms
+07:21:44.270 TimerThread not responding...   Restarting. Error: 100 6A2CEBEF D4EFF78 D4EFF70 1623 ms
+07:21:45.863 TimerThread locked up...        Redirecting. Error: 100 6A2CEBEF D4EFF78 D4EFF70 2216 ms
+07:21:45.863 TimerThread locked up...        Redirecting. Error: 100 6A2CEBEF D4EFF78 D4EFF70 2216 ms
+07:21:45.097 TimerThread not responding...   Restarting. Error: 100 6A2CEBEF D4EFF78 D4EFF70 2450 ms
+18:44:55.061 Elfbot NG 4.5.9 - Entry Started on segunda-feira março 28, 2022
+18:44:55.061 TimerThread not responding...   Restarting. Error: 100 28D9E B80FF78 B80FF70 686 ms
+20:26:24.890 Elfbot NG 4.5.9 - Entry Started on segunda-feira março 28, 2022
+20:26:24.890 TimerThread locked up...        Redirecting. Error: -10 6BC343F9 AC0FF78 AC0FF70 0 ms
+20:36:36.022 TimerThread not responding...   Restarting. Error: 100 6D23D961 AC0FF78 AC0FF70 765 ms
+20:36:36.022 Locked on hotkey: ' if [$hp == 0] { reconnect | gotolabel Start } | wait 1000' on command 'reconnect' 765 ms Error: 502 6D23D961 AC0FF18 AC0F72C
+22:03:00.935 Elfbot NG 4.5.9 - Entry Started on segunda-feira março 28, 2022
+22:03:00.935 TimerThread not responding...   Restarting. Error: 100 6CEDBB94 B55FF78 B55FF70 1576 ms
+22:03:00.935 Locked on hotkey: ' if [$hp == 0] { reconnect | gotolabel Start2 } | wait 1000' on command 'reconnect' 1576 ms Error: 502 6CEDBB94 B55FF18 B55F72C
+22:03:00.809 TimerThread not responding...   Restarting. Error: 100 6AD34E99 EB4FF78 EB4FF70 734 ms
+22:03:00.809 Locked on hotkey: ' if [$hp == 0] { reconnect | gotolabel Start2 } | wait 1000' on command 'reconnect' 718 ms Error: 502 6AD34E99 EB4FF18 EB4F72C
+23:48:29.364 TimerThread locked up...        Redirecting. Error: 100 6AD41D7D B55FF78 B55FF70 562 ms
+23:48:29.364 Locked on hotkey: Error #501 0 ms
+23:51:46.409 TimerThread locked up...        Redirecting. Error: -10 6CECD961 B55F720 B55FF70 0 ms
+04:23:54.239 Elfbot NG 4.5.9 - Entry Started on quinta-feira março 31, 2022
+04:23:54.254 TimerThread not responding...   Restarting. Error: 100 F61BF5CC BDDFF78 BDDFF70 733 ms
+04:23:54.254 Locked on hotkey: ' if [$hp == 0] { reconnect | gotolabel Start } | wait 1000' on command 'reconnect' 748 ms Error: 502 F61BF5CC BDDFF18 BDDF72C
+04:23:57.392 TimerThread not responding...   Restarting. Error: 100 F61B011D BDDFF78 BDDFF70 812 ms
+04:23:57.392 Locked on hotkey: ' if [$hp == 0] { reconnect | gotolabel Start } | wait 1000' on command 'reconnect' 812 ms Error: 502 F61B011D BDDFF18 BDDF72C
+04:24:42.523 Elfbot NG 4.5.9 - Entry Started on quinta-feira março 31, 2022
+04:24:42.523 TimerThread not responding...   Restarting. Error: 100 6D6D4E99 BCEFF78 BCEFF70 936 ms
+04:24:42.523 Locked on hotkey: ' if [$hp == 0] { reconnect | gotolabel Start } | wait 1000' on command 'reconnect' 936 ms Error: 502 6D6D4E99 BCEFF18 BCEF72C
+15:37:42.726 Elfbot NG 4.5.9 - Entry Started on sexta-feira abril 01, 2022
+15:37:42.726 TimerThread not responding...   Restarting. Error: 100 6D811D7D AC3FF78 AC3FF70 999 ms
+15:37:43.771 TimerThread not responding...   Restarting. Error: 10 6DCED4A1 AC3FF78 AC3FF70 1045 ms
+15:37:43.286 TimerThread locked up...        Redirecting. Error: 10 6DCED4A1 AC3FF78 AC3FF70 1560 ms
+15:37:44.488 TimerThread not responding...   Restarting. Error: 10 203BB AC3FF78 AC3FF70 1762 ms
+15:37:44.190 TimerThread not responding...   Restarting. Error: 10 6DCED4A1 AC3FF78 AC3FF70 2464 ms
+15:37:45.908 TimerThread not responding...   Restarting. Error: 10 6DCED4A1 AC3FF78 AC3FF70 3182 ms
+15:37:46.610 TimerThread not responding...   Restarting. Error: 10 6DCED4A1 AC3FF78 AC3FF70 3884 ms
+15:37:46.312 TimerThread not responding...   Restarting. Error: 10 6DCED4A1 AC3FF78 AC3FF70 4586 ms
+15:37:47.014 TimerThread not responding...   Restarting. Error: 10 6DCED4A1 AC3FF78 AC3FF70 5288 ms
+15:37:48.732 TimerThread not responding...   Restarting. Error: 10 6DCED4A1 AC3FF78 AC3FF70 6006 ms
+15:37:49.434 TimerThread not responding...   Restarting. Error: 10 6DCED4A1 AC3FF78 AC3FF70 6708 ms
+15:37:49.136 TimerThread not responding...   Restarting. Error: 10 6DCED4A1 AC3FF78 AC3FF70 7410 ms
+15:37:50.838 TimerThread not responding...   Restarting. Error: 10 6DCED4A1 AC3FF78 AC3FF70 8112 ms
+15:37:51.571 TimerThread not responding...   Restarting. Error: 10 6DCED4A1 AC3FF78 AC3FF70 8845 ms
+15:37:51.288 TimerThread not responding...   Restarting. Error: 10 6DCED4A1 AC3FF78 AC3FF70 9562 ms
+15:37:52.006 TimerThread not responding...   Restarting. Error: 10 6DCED4A1 AC3FF78 AC3FF70 10280 ms
+15:37:53.755 TimerThread not responding...   Restarting. Error: 10 6DCED4A1 AC3FF78 AC3FF70 11029 ms
+15:37:54.488 TimerThread not responding...   Restarting. Error: 10 6DCED4A1 AC3FF78 AC3FF70 11762 ms
+15:37:54.221 TimerThread not responding...   Restarting. Error: 10 6DCED4A1 AC3FF78 AC3FF70 12480 ms
+15:37:55.908 TimerThread not responding...   Restarting. Error: 10 6DCED4A1 AC3FF78 AC3FF70 13182 ms
+15:37:56.641 TimerThread not responding...   Restarting. Error: 10 6DCED4A1 AC3FF78 AC3FF70 13915 ms
+15:37:56.359 TimerThread not responding...   Restarting. Error: 10 6DCED4A1 AC3FF78 AC3FF70 14633 ms
+15:37:57.045 TimerThread not responding...   Restarting. Error: 10 6DCED4A1 AC3FF78 AC3FF70 15319 ms
+15:37:58.763 TimerThread not responding...   Restarting. Error: 10 6DCED4A1 AC3FF78 AC3FF70 16037 ms
+15:37:59.465 TimerThread not responding...   Restarting. Error: 10 6DCED4A1 AC3FF78 AC3FF70 16739 ms
+15:37:59.182 TimerThread not responding...   Restarting. Error: 10 6DCED4A1 AC3FF78 AC3FF70 17456 ms
+15:38:00.900 TimerThread not responding...   Restarting. Error: 10 6DCED4A1 AC3FF78 AC3FF70 18174 ms
+15:38:01.602 TimerThread not responding...   Restarting. Error: 10 6DCED4A1 AC3FF78 AC3FF70 18876 ms
+15:38:01.319 TimerThread not responding...   Restarting. Error: 10 6DCED4A1 AC3FF78 AC3FF70 19593 ms
+15:38:02.084 TimerThread not responding...   Restarting. Error: 10 6DCED4A1 AC3FF78 AC3FF70 20358 ms
+15:38:03.786 TimerThread not responding...   Restarting. Error: 10 6DCED4A1 AC3FF78 AC3FF70 21060 ms
+15:38:04.535 TimerThread not responding...   Restarting. Error: 10 6DCED4A1 AC3FF78 AC3FF70 21809 ms
+15:38:04.237 TimerThread not responding...   Restarting. Error: 10 6DCED4A1 AC3FF78 AC3FF70 22511 ms
+15:38:05.970 TimerThread not responding...   Restarting. Error: 10 6DCED4A1 AC3FF78 AC3FF70 23244 ms
+15:38:06.672 TimerThread not responding...   Restarting. Error: 10 6DCED4A1 AC3FF78 AC3FF70 23946 ms
+15:38:06.374 TimerThread not responding...   Restarting. Error: 10 6DCED4A1 AC3FF78 AC3FF70 24648 ms
+15:38:07.076 TimerThread not responding...   Restarting. Error: 10 6DCED4A1 AC3FF78 AC3FF70 25350 ms
+15:38:08.825 TimerThread not responding...   Restarting. Error: 10 6DCED4A1 AC3FF78 AC3FF70 26099 ms
+15:38:09.605 TimerThread not responding...   Restarting. Error: 10 6DCED4A1 AC3FF78 AC3FF70 26879 ms
+15:38:09.322 TimerThread not responding...   Restarting. Error: 10 6DCED4A1 AC3FF78 AC3FF70 27596 ms
+15:38:10.024 TimerThread not responding...   Restarting. Error: 10 6DCED4A1 AC3FF78 AC3FF70 28298 ms
+15:38:11.726 TimerThread not responding...   Restarting. Error: 10 6DCED4A1 AC3FF78 AC3FF70 29000 ms
+15:38:12.444 TimerThread not responding...   Restarting. Error: 10 6DCED4A1 AC3FF78 AC3FF70 29718 ms
+15:38:12.177 TimerThread not responding...   Restarting. Error: 10 6DCED4A1 AC3FF78 AC3FF70 30451 ms
+15:38:13.926 TimerThread not responding...   Restarting. Error: 10 6DCED4A1 AC3FF78 AC3FF70 31200 ms
+15:38:14.628 TimerThread not responding...   Restarting. Error: 10 6DCED4A1 AC3FF78 AC3FF70 31902 ms
+15:38:14.377 TimerThread not responding...   Restarting. Error: 10 6DCED4A1 AC3FF78 AC3FF70 32651 ms
+15:38:15.063 TimerThread not responding...   Restarting. Error: 10 6DCED4A1 AC3FF78 AC3FF70 33337 ms
+15:38:16.765 TimerThread not responding...   Restarting. Error: 10 6DCED4A1 AC3FF78 AC3FF70 34039 ms
+15:38:17.498 TimerThread not responding...   Restarting. Error: 10 6DCED4A1 AC3FF78 AC3FF70 34772 ms
+15:38:17.247 TimerThread not responding...   Restarting. Error: 10 6DCED4A1 AC3FF78 AC3FF70 35521 ms
+15:38:18.965 TimerThread not responding...   Restarting. Error: 10 6DCED4A1 AC3FF78 AC3FF70 36239 ms
+15:38:19.698 TimerThread not responding...   Restarting. Error: 10 6DCED4A1 AC3FF78 AC3FF70 36956 ms
+15:38:20.384 TimerThread not responding...   Restarting. Error: 10 6DCED4A1 AC3FF78 AC3FF70 37658 ms
+15:38:20.086 TimerThread not responding...   Restarting. Error: 10 6DCED4A1 AC3FF78 AC3FF70 38360 ms
+15:38:21.804 TimerThread not responding...   Restarting. Error: 10 6DCED4A1 AC3FF78 AC3FF70 39078 ms
+15:38:22.521 TimerThread not responding...   Restarting. Error: 10 6DCED4A1 AC3FF78 AC3FF70 39795 ms
+15:38:22.239 TimerThread not responding...   Restarting. Error: 10 6DCED4A1 AC3FF78 AC3FF70 40513 ms
+15:38:23.925 TimerThread not responding...   Restarting. Error: 10 6DCED4A1 AC3FF78 AC3FF70 41199 ms
+15:38:24.627 TimerThread not responding...   Restarting. Error: 10 6DCED4A1 AC3FF78 AC3FF70 41901 ms
+15:38:24.329 TimerThread not responding...   Restarting. Error: 10 6DCED4A1 AC3FF78 AC3FF70 42603 ms
+15:38:25.031 TimerThread not responding...   Restarting. Error: 10 6DCED4A1 AC3FF78 AC3FF70 43305 ms
+15:38:26.733 TimerThread not responding...   Restarting. Error: 10 6DCED4A1 AC3FF78 AC3FF70 44007 ms
+15:38:27.436 TimerThread not responding...   Restarting. Error: 10 6DCED4A1 AC3FF78 AC3FF70 44710 ms
+15:38:27.138 TimerThread not responding...   Restarting. Error: 10 6DCED4A1 AC3FF78 AC3FF70 45412 ms
+15:38:28.840 TimerThread not responding...   Restarting. Error: 10 6DCED4A1 AC3FF78 AC3FF70 46114 ms
+15:38:29.542 TimerThread not responding...   Restarting. Error: 10 6DCED4A1 AC3FF78 AC3FF70 46816 ms
+15:38:29.259 TimerThread not responding...   Restarting. Error: 10 6DCED4A1 AC3FF78 AC3FF70 47533 ms
+15:38:30.008 TimerThread not responding...   Restarting. Error: 10 6DCED4A1 AC3FF78 AC3FF70 48282 ms
+15:38:31.726 TimerThread not responding...   Restarting. Error: 10 6DCED4A1 AC3FF78 AC3FF70 49000 ms
+15:38:32.443 TimerThread not responding...   Restarting. Error: 10 6DCED4A1 AC3FF78 AC3FF70 49717 ms
+15:38:32.192 TimerThread not responding...   Restarting. Error: 10 6DCED4A1 AC3FF78 AC3FF70 50466 ms
+15:38:33.925 TimerThread not responding...   Restarting. Error: 10 6DCED4A1 AC3FF78 AC3FF70 51199 ms
+15:38:34.658 TimerThread not responding...   Restarting. Error: 10 6DCED4A1 AC3FF78 AC3FF70 51932 ms
+15:38:34.360 TimerThread not responding...   Restarting. Error: 10 6DCED4A1 AC3FF78 AC3FF70 52634 ms
+15:38:35.062 TimerThread not responding...   Restarting. Error: 10 6DCED4A1 AC3FF78 AC3FF70 53336 ms
+15:38:36.764 TimerThread not responding...   Restarting. Error: 10 6DCED4A1 AC3FF78 AC3FF70 54038 ms
+15:38:37.466 TimerThread not responding...   Restarting. Error: 10 6DCED4A1 AC3FF78 AC3FF70 54740 ms
+15:38:37.184 TimerThread not responding...   Restarting. Error: 10 6DCED4A1 AC3FF78 AC3FF70 55458 ms
+15:38:38.886 TimerThread not responding...   Restarting. Error: 10 6DCED4A1 AC3FF78 AC3FF70 56160 ms
+15:38:39.697 TimerThread not responding...   Restarting. Error: 10 6DCED4A1 AC3FF78 AC3FF70 56971 ms
+15:38:40.415 TimerThread not responding...   Restarting. Error: 10 6DCED4A1 AC3FF78 AC3FF70 57689 ms
+15:38:40.117 TimerThread not responding...   Restarting. Error: 10 6DCED4A1 AC3FF78 AC3FF70 58391 ms
+15:38:41.850 TimerThread not responding...   Restarting. Error: 10 6DCED4A1 AC3FF78 AC3FF70 59124 ms
+15:38:42.552 TimerThread not responding...   Restarting. Error: 10 6DCED4A1 AC3FF78 AC3FF70 59826 ms
+15:38:42.254 TimerThread not responding...   Restarting. Error: 10 6DCED4A1 AC3FF78 AC3FF70 60528 ms
+15:38:43.956 TimerThread not responding...   Restarting. Error: 10 6DCED4A1 AC3FF78 AC3FF70 61230 ms
+15:38:44.674 TimerThread not responding...   Restarting. Error: 10 6DCED4A1 AC3FF78 AC3FF70 61948 ms
+15:38:45.391 TimerThread not responding...   Restarting. Error: 10 6DCED4A1 AC3FF78 AC3FF70 62665 ms
+15:38:45.109 TimerThread not responding...   Restarting. Error: 10 6DCED4A1 AC3FF78 AC3FF70 63383 ms
+15:38:46.842 TimerThread not responding...   Restarting. Error: 10 6DCED4A1 AC3FF78 AC3FF70 64116 ms
+15:38:47.638 TimerThread not responding...   Restarting. Error: 10 6DCED4A1 AC3FF78 AC3FF70 64912 ms
+15:38:47.355 TimerThread not responding...   Restarting. Error: 10 6DCED4A1 AC3FF78 AC3FF70 65629 ms
+15:38:48.088 TimerThread not responding...   Restarting. Error: 10 6DCED4A1 AC3FF78 AC3FF70 66362 ms
+15:38:49.790 TimerThread not responding...   Restarting. Error: 10 6DCED4A1 AC3FF78 AC3FF70 67064 ms
+15:38:50.492 TimerThread not responding...   Restarting. Error: 10 6DCED4A1 AC3FF78 AC3FF70 67766 ms
+15:38:50.210 TimerThread not responding...   Restarting. Error: 10 6DCED4A1 AC3FF78 AC3FF70 68484 ms
+15:38:51.928 TimerThread not responding...   Restarting. Error: 10 6DCED4A1 AC3FF78 AC3FF70 69202 ms
+15:38:52.630 TimerThread not responding...   Restarting. Error: 10 6DCED4A1 AC3FF78 AC3FF70 69904 ms
+15:38:52.363 TimerThread not responding...   Restarting. Error: 10 6DCED4A1 AC3FF78 AC3FF70 70637 ms
+15:38:53.080 TimerThread not responding...   Restarting. Error: 10 6DCED4A1 AC3FF78 AC3FF70 71354 ms
+15:38:54.798 TimerThread not responding...   Restarting. Error: 10 6DCED4A1 AC3FF78 AC3FF70 72072 ms
+15:38:55.516 TimerThread not responding...   Restarting. Error: 10 6DCED4A1 AC3FF78 AC3FF70 72790 ms
+15:38:55.218 TimerThread not responding...   Restarting. Error: 10 6DCED4A1 AC3FF78 AC3FF70 73492 ms
+15:38:56.920 TimerThread not responding...   Restarting. Error: 10 6DCED4A1 AC3FF78 AC3FF70 74194 ms
+15:38:57.684 TimerThread not responding...   Restarting. Error: 10 6DCED4A1 AC3FF78 AC3FF70 74958 ms
+15:38:58.386 TimerThread not responding...   Restarting. Error: 10 6DCED4A1 AC3FF78 AC3FF70 75660 ms
+15:38:58.104 TimerThread not responding...   Restarting. Error: 10 6DCED4A1 AC3FF78 AC3FF70 76378 ms
+15:38:59.806 TimerThread not responding...   Restarting. Error: 10 6DCED4A1 AC3FF78 AC3FF70 77080 ms
+15:39:00.508 TimerThread not responding...   Restarting. Error: 10 6DCED4A1 AC3FF78 AC3FF70 77782 ms
+15:39:00.210 TimerThread not responding...   Restarting. Error: 10 6DCED4A1 AC3FF78 AC3FF70 78484 ms
+15:39:01.943 TimerThread not responding...   Restarting. Error: 10 6DCED4A1 AC3FF78 AC3FF70 79217 ms
+15:39:02.692 TimerThread not responding...   Restarting. Error: 10 6DCED4A1 AC3FF78 AC3FF70 79966 ms
+15:39:03.441 TimerThread not responding...   Restarting. Error: 10 6DCED4A1 AC3FF78 AC3FF70 80715 ms
+15:39:03.174 TimerThread not responding...   Restarting. Error: 10 6DCED4A1 AC3FF78 AC3FF70 81448 ms
+15:39:04.938 TimerThread not responding...   Restarting. Error: 10 6DCED4A1 AC3FF78 AC3FF70 82212 ms
+15:39:05.687 TimerThread not responding...   Restarting. Error: 10 6DCED4A1 AC3FF78 AC3FF70 82961 ms
+15:39:06.436 TimerThread not responding...   Restarting. Error: 10 6DCED4A1 AC3FF78 AC3FF70 83710 ms
+15:39:06.122 TimerThread not responding...   Restarting. Error: 10 6DCED4A1 AC3FF78 AC3FF70 84396 ms
+15:39:07.824 TimerThread not responding...   Restarting. Error: 10 6DCED4A1 AC3FF78 AC3FF70 85098 ms
+15:39:08.542 TimerThread not responding...   Restarting. Error: 10 6DCED4A1 AC3FF78 AC3FF70 85816 ms
+15:39:08.244 TimerThread not responding...   Restarting. Error: 10 6DCED4A1 AC3FF78 AC3FF70 86518 ms
+15:39:09.946 TimerThread not responding...   Restarting. Error: 10 6DCED4A1 AC3FF78 AC3FF70 87220 ms
+15:39:10.663 TimerThread not responding...   Restarting. Error: 10 6DCED4A1 AC3FF78 AC3FF70 87937 ms
+15:39:11.381 TimerThread not responding...   Restarting. Error: 10 6DCED4A1 AC3FF78 AC3FF70 88655 ms
+15:39:11.083 TimerThread not responding...   Restarting. Error: 10 6DCED4A1 AC3FF78 AC3FF70 89357 ms
+15:39:12.801 TimerThread not responding...   Restarting. Error: 10 6DCED4A1 AC3FF78 AC3FF70 90075 ms
+15:39:13.596 TimerThread not responding...   Restarting. Error: 10 6DCED4A1 AC3FF78 AC3FF70 90870 ms
+15:39:13.298 TimerThread not responding...   Restarting. Error: 10 6DCED4A1 AC3FF78 AC3FF70 91572 ms
+15:39:14.000 TimerThread not responding...   Restarting. Error: 10 6DCED4A1 AC3FF78 AC3FF70 92274 ms
+15:39:15.718 TimerThread not responding...   Restarting. Error: 10 6DCED4A1 AC3FF78 AC3FF70 92992 ms
+15:39:16.420 TimerThread not responding...   Restarting. Error: 10 6DCED4A1 AC3FF78 AC3FF70 93694 ms
+15:39:16.278 TimerThread not responding...   Restarting. Error: 10 6DCED4A1 AC3FF78 AC3FF70 94552 ms
+15:39:17.995 TimerThread not responding...   Restarting. Error: 10 6DCED4A1 AC3FF78 AC3FF70 95269 ms
+15:39:18.697 TimerThread not responding...   Restarting. Error: 10 6DCED4A1 AC3FF78 AC3FF70 95971 ms
+15:39:19.399 TimerThread not responding...   Restarting. Error: 10 6DCED4A1 AC3FF78 AC3FF70 96673 ms
+15:39:19.117 TimerThread not responding...   Restarting. Error: 10 6DCED4A1 AC3FF78 AC3FF70 97391 ms
+15:39:20.819 TimerThread not responding...   Restarting. Error: 10 6DCED4A1 AC3FF78 AC3FF70 98093 ms
+15:39:21.521 TimerThread not responding...   Restarting. Error: 10 6DCED4A1 AC3FF78 AC3FF70 98795 ms
+15:39:21.223 TimerThread not responding...   Restarting. Error: 10 6DCED4A1 AC3FF78 AC3FF70 99497 ms
+15:39:22.925 TimerThread not responding...   Restarting. Error: 10 6DCED4A1 AC3FF78 AC3FF70 100199 ms
+15:39:23.643 TimerThread not responding...   Restarting. Error: 10 6DCED4A1 AC3FF78 AC3FF70 100917 ms
+15:39:23.376 TimerThread not responding...   Restarting. Error: 10 6DCED4A1 AC3FF78 AC3FF70 101650 ms
+15:39:24.109 TimerThread not responding...   Restarting. Error: 10 6DCED4A1 AC3FF78 AC3FF70 102383 ms
+15:39:25.827 TimerThread not responding...   Restarting. Error: 10 6DCED4A1 AC3FF78 AC3FF70 103101 ms
+15:39:26.965 TimerThread not responding...   Restarting. Error: 10 6DCED4A1 AC3FF78 AC3FF70 104239 ms
+15:39:27.792 TimerThread not responding...   Restarting. Error: 10 6DCED4A1 AC3FF78 AC3FF70 105066 ms
+15:39:28.572 TimerThread not responding...   Restarting. Error: 10 6DCED4A1 AC3FF78 AC3FF70 105846 ms
+15:39:28.274 TimerThread not responding...   Restarting. Error: 10 6DCED4A1 AC3FF78 AC3FF70 106548 ms
+15:39:29.008 TimerThread not responding...   Restarting. Error: 10 6DCED4A1 AC3FF78 AC3FF70 107282 ms
+15:39:30.741 TimerThread not responding...   Restarting. Error: 10 6DCED4A1 AC3FF78 AC3FF70 108015 ms
+15:39:31.474 TimerThread not responding...   Restarting. Error: 10 6DCED4A1 AC3FF78 AC3FF70 108748 ms
+15:39:31.192 TimerThread not responding...   Restarting. Error: 10 6DCED4A1 AC3FF78 AC3FF70 109466 ms
+15:39:32.894 TimerThread not responding...   Restarting. Error: 10 6DCED4A1 AC3FF78 AC3FF70 110168 ms
+15:39:33.658 TimerThread not responding...   Restarting. Error: 10 6DCED4A1 AC3FF78 AC3FF70 110932 ms
+15:39:33.360 TimerThread not responding...   Restarting. Error: 10 6DCED4A1 AC3FF78 AC3FF70 111634 ms
+15:39:34.062 TimerThread not responding...   Restarting. Error: 10 6DCED4A1 AC3FF78 AC3FF70 112336 ms
+15:39:35.764 TimerThread not responding...   Restarting. Error: 10 6DCED4A1 AC3FF78 AC3FF70 113038 ms
+15:39:36.482 TimerThread not responding...   Restarting. Error: 10 6DCED4A1 AC3FF78 AC3FF70 113756 ms
+15:39:36.246 TimerThread not responding...   Restarting. Error: 10 6DCED4A1 AC3FF78 AC3FF70 114520 ms
+15:39:37.979 TimerThread not responding...   Restarting. Error: 10 6DCED4A1 AC3FF78 AC3FF70 115253 ms
+15:39:38.666 TimerThread not responding...   Restarting. Error: 10 6DCED4A1 AC3FF78 AC3FF70 115940 ms
+15:39:38.383 TimerThread not responding...   Restarting. Error: 10 6DCED4A1 AC3FF78 AC3FF70 116657 ms
+15:39:39.101 TimerThread not responding...   Restarting. Error: 10 6DCED4A1 AC3FF78 AC3FF70 117375 ms
+15:39:40.818 TimerThread not responding...   Restarting. Error: 10 6DCED4A1 AC3FF78 AC3FF70 118092 ms
+15:39:41.520 TimerThread not responding...   Restarting. Error: 10 6DCED4A1 AC3FF78 AC3FF70 118794 ms
+15:39:41.222 TimerThread not responding...   Restarting. Error: 10 6DCED4A1 AC3FF78 AC3FF70 119496 ms
+15:39:42.956 TimerThread not responding...   Restarting. Error: 10 6DCED4A1 AC3FF78 AC3FF70 120230 ms
+15:39:43.673 TimerThread not responding...   Restarting. Error: 10 6DCED4A1 AC3FF78 AC3FF70 120947 ms
+15:39:44.391 TimerThread not responding...   Restarting. Error: 10 6DCED4A1 AC3FF78 AC3FF70 121665 ms
+15:39:44.093 TimerThread not responding...   Restarting. Error: 10 6DCED4A1 AC3FF78 AC3FF70 122367 ms
+15:39:45.795 TimerThread not responding...   Restarting. Error: 10 6DCED4A1 AC3FF78 AC3FF70 123069 ms
+15:39:46.497 TimerThread not responding...   Restarting. Error: 10 6DCED4A1 AC3FF78 AC3FF70 123771 ms
+15:39:46.199 TimerThread not responding...   Restarting. Error: 10 6DCED4A1 AC3FF78 AC3FF70 124473 ms
+15:39:47.916 TimerThread not responding...   Restarting. Error: 10 6DCED4A1 AC3FF78 AC3FF70 125190 ms
+15:39:48.603 TimerThread not responding...   Restarting. Error: 10 6DCED4A1 AC3FF78 AC3FF70 125877 ms
+15:39:48.320 TimerThread not responding...   Restarting. Error: 10 6DCED4A1 AC3FF78 AC3FF70 126594 ms
+15:39:49.038 TimerThread not responding...   Restarting. Error: 10 6DCED4A1 AC3FF78 AC3FF70 127312 ms
+15:39:50.756 TimerThread not responding...   Restarting. Error: 10 6DCED4A1 AC3FF78 AC3FF70 128030 ms
+15:39:51.458 TimerThread not responding...   Restarting. Error: 10 6DCED4A1 AC3FF78 AC3FF70 128732 ms
+15:39:51.191 TimerThread not responding...   Restarting. Error: 10 6DCED4A1 AC3FF78 AC3FF70 129465 ms
+15:39:52.893 TimerThread not responding...   Restarting. Error: 10 6DCED4A1 AC3FF78 AC3FF70 130167 ms
+15:39:53.657 TimerThread not responding...   Restarting. Error: 10 6DCED4A1 AC3FF78 AC3FF70 130931 ms
+15:39:53.375 TimerThread not responding...   Restarting. Error: 10 6DCED4A1 AC3FF78 AC3FF70 131649 ms
+15:39:54.108 TimerThread not responding...   Restarting. Error: 10 6DCED4A1 AC3FF78 AC3FF70 132382 ms
+15:39:55.826 TimerThread not responding...   Restarting. Error: 10 6DCED4A1 AC3FF78 AC3FF70 133100 ms
+15:39:56.543 TimerThread not responding...   Restarting. Error: 10 6DCED4A1 AC3FF78 AC3FF70 133817 ms
+15:39:56.245 TimerThread not responding...   Restarting. Error: 10 6DCED4A1 AC3FF78 AC3FF70 134519 ms
+15:39:57.994 TimerThread not responding...   Restarting. Error: 10 6DCED4A1 AC3FF78 AC3FF70 135268 ms
+15:39:58.774 TimerThread not responding...   Restarting. Error: 10 6DCED4A1 AC3FF78 AC3FF70 136048 ms
+15:39:59.476 TimerThread not responding...   Restarting. Error: 10 6DCED4A1 AC3FF78 AC3FF70 136750 ms
+15:39:59.178 TimerThread not responding...   Restarting. Error: 10 6DCED4A1 AC3FF78 AC3FF70 137452 ms
+15:40:00.896 TimerThread not responding...   Restarting. Error: 10 6DCED4A1 AC3FF78 AC3FF70 138170 ms
+15:40:01.801 TimerThread not responding...   Restarting. Error: 10 6DCED4A1 AC3FF78 AC3FF70 139075 ms
+15:40:02.503 TimerThread not responding...   Restarting. Error: 10 6DCED4A1 AC3FF78 AC3FF70 139777 ms
+15:40:02.220 TimerThread not responding...   Restarting. Error: 10 6DCED4A1 AC3FF78 AC3FF70 140494 ms
+15:40:03.953 TimerThread not responding...   Restarting. Error: 10 6DCED4A1 AC3FF78 AC3FF70 141227 ms
+15:40:04.796 TimerThread not responding...   Restarting. Error: 10 6DCED4A1 AC3FF78 AC3FF70 141929 ms
+15:40:05.451 TimerThread not responding...   Restarting. Error: 10 6DCED4A1 AC3FF78 AC3FF70 142725 ms
+15:40:05.169 TimerThread not responding...   Restarting. Error: 10 6DCED4A1 AC3FF78 AC3FF70 143443 ms
+15:40:06.949 TimerThread not responding...   Restarting. Error: 10 6DCED4A1 AC3FF78 AC3FF70 144223 ms
+15:40:07.651 TimerThread not responding...   Restarting. Error: 10 6DCED4A1 AC3FF78 AC3FF70 144925 ms
+15:40:07.368 TimerThread not responding...   Restarting. Error: 10 6DCED4A1 AC3FF78 AC3FF70 145642 ms
+15:40:08.101 TimerThread not responding...   Restarting. Error: 10 6DCED4A1 AC3FF78 AC3FF70 146375 ms
+15:40:09.803 TimerThread not responding...   Restarting. Error: 10 6DCED4A1 AC3FF78 AC3FF70 147077 ms
+15:40:10.537 TimerThread not responding...   Restarting. Error: 10 6DCED4A1 AC3FF78 AC3FF70 147811 ms
+15:40:10.239 TimerThread not responding...   Restarting. Error: 10 6DCED4A1 AC3FF78 AC3FF70 148513 ms
+15:40:11.941 TimerThread not responding...   Restarting. Error: 10 6DCED4A1 AC3FF78 AC3FF70 149215 ms
+15:40:12.658 TimerThread not responding...   Restarting. Error: 10 6DCED4A1 AC3FF78 AC3FF70 149932 ms
+15:40:13.391 TimerThread not responding...   Restarting. Error: 10 6DCED4A1 AC3FF78 AC3FF70 150665 ms
+15:40:13.093 TimerThread not responding...   Restarting. Error: 10 6DCED4A1 AC3FF78 AC3FF70 151367 ms
+15:40:14.795 TimerThread not responding...   Restarting. Error: 10 6DCED4A1 AC3FF78 AC3FF70 152069 ms
+15:40:15.497 TimerThread not responding...   Restarting. Error: 10 6DCED4A1 AC3FF78 AC3FF70 152771 ms
+15:40:15.231 TimerThread not responding...   Restarting. Error: 10 6DCED4A1 AC3FF78 AC3FF70 153505 ms
+15:40:16.917 TimerThread not responding...   Restarting. Error: 10 6DCED4A1 AC3FF78 AC3FF70 154191 ms
+15:40:17.635 TimerThread not responding...   Restarting. Error: 10 6DCED4A1 AC3FF78 AC3FF70 154909 ms
+15:40:17.337 TimerThread not responding...   Restarting. Error: 10 6DCED4A1 AC3FF78 AC3FF70 155611 ms
+15:40:18.039 TimerThread not responding...   Restarting. Error: 10 6DCED4A1 AC3FF78 AC3FF70 156313 ms
+15:40:19.819 TimerThread not responding...   Restarting. Error: 10 6DCED4A1 AC3FF78 AC3FF70 157093 ms
+15:40:20.521 TimerThread not responding...   Restarting. Error: 10 6DCED4A1 AC3FF78 AC3FF70 157795 ms
+15:40:20.238 TimerThread not responding...   Restarting. Error: 10 6DCED4A1 AC3FF78 AC3FF70 158512 ms
+15:40:21.940 TimerThread not responding...   Restarting. Error: 10 6DCED4A1 AC3FF78 AC3FF70 159214 ms
+15:40:22.642 TimerThread not responding...   Restarting. Error: 10 6DCED4A1 AC3FF78 AC3FF70 159916 ms
+15:40:22.344 TimerThread not responding...   Restarting. Error: 10 6DCED4A1 AC3FF78 AC3FF70 160618 ms
+15:40:23.046 TimerThread not responding...   Restarting. Error: 10 6DCED4A1 AC3FF78 AC3FF70 161320 ms
+15:40:24.779 TimerThread not responding...   Restarting. Error: 10 6DCED4A1 AC3FF78 AC3FF70 162053 ms
+15:40:25.481 TimerThread not responding...   Restarting. Error: 10 6DCED4A1 AC3FF78 AC3FF70 162755 ms
+15:40:25.199 TimerThread not responding...   Restarting. Error: 10 6DCED4A1 AC3FF78 AC3FF70 163473 ms
+15:40:26.885 TimerThread not responding...   Restarting. Error: 10 6DCED4A1 AC3FF78 AC3FF70 164159 ms
+15:40:27.587 TimerThread not responding...   Restarting. Error: 10 6DCED4A1 AC3FF78 AC3FF70 164861 ms
+15:40:27.289 TimerThread not responding...   Restarting. Error: 10 6DCED4A1 AC3FF78 AC3FF70 165563 ms
+15:40:28.991 TimerThread not responding...   Restarting. Error: 10 6DCED4A1 AC3FF78 AC3FF70 166265 ms
+15:40:29.693 TimerThread not responding...   Restarting. Error: 10 6DCED4A1 AC3FF78 AC3FF70 166967 ms
+15:40:30.427 TimerThread not responding...   Restarting. Error: 10 6DCED4A1 AC3FF78 AC3FF70 167701 ms
+15:40:30.144 TimerThread not responding...   Restarting. Error: 10 6DCED4A1 AC3FF78 AC3FF70 168418 ms
+15:40:31.893 TimerThread not responding...   Restarting. Error: 10 6DCED4A1 AC3FF78 AC3FF70 169167 ms
+15:40:32.595 TimerThread not responding...   Restarting. Error: 10 6DCED4A1 AC3FF78 AC3FF70 169869 ms
+15:40:32.313 TimerThread not responding...   Restarting. Error: 10 6DCED4A1 AC3FF78 AC3FF70 170587 ms
+15:40:33.015 TimerThread not responding...   Restarting. Error: 10 6DCED4A1 AC3FF78 AC3FF70 171289 ms
+15:40:34.748 TimerThread not responding...   Restarting. Error: 10 6DCED4A1 AC3FF78 AC3FF70 172022 ms
+15:40:35.450 TimerThread not responding...   Restarting. Error: 10 6DCED4A1 AC3FF78 AC3FF70 172724 ms
+15:40:35.152 TimerThread not responding...   Restarting. Error: 10 6DCED4A1 AC3FF78 AC3FF70 173426 ms
+15:40:37.650 Elfbot NG 4.5.9 - Entry Started on sexta-feira abril 01, 2022
+15:40:37.650 TimerThread not responding...   Restarting. Error: 100 6D7F1D7D AB6FF78 AB6FF70 999 ms
+15:40:37.650 Locked on hotkey: Error #501 0 ms
+15:40:37.681 TimerThread not responding...   Restarting. Error: 10 6DCED4A1 AC3FF78 AC3FF70 174955 ms
+15:40:38.710 TimerThread not responding...   Restarting. Error: 10 6DCED4A1 AC3FF78 AC3FF70 175984 ms
+15:40:38.726 TimerThread locked up...        Redirecting. Error: 100 6D7F1D7D AB6FF78 AB6FF70 515 ms
+15:40:39.428 TimerThread not responding...   Restarting. Error: 10 6DCED4A1 AC3FF78 AC3FF70 176702 ms
+15:40:39.146 TimerThread not responding...   Restarting. Error: 10 6DCED4A1 AC3FF78 AC3FF70 177420 ms
+15:40:40.863 TimerThread not responding...   Restarting. Error: 10 6DCED4A1 AC3FF78 AC3FF70 178137 ms
+15:40:41.565 TimerThread not responding...   Restarting. Error: 10 6DCED4A1 AC3FF78 AC3FF70 178839 ms
+15:40:41.283 TimerThread not responding...   Restarting. Error: 10 6DCED4A1 AC3FF78 AC3FF70 179557 ms
+15:40:42.985 TimerThread not responding...   Restarting. Error: 10 6DCED4A1 AC3FF78 AC3FF70 180259 ms
+15:40:43.702 TimerThread not responding...   Restarting. Error: 10 6DCED4A1 AC3FF78 AC3FF70 180976 ms
+15:40:44.420 TimerThread not responding...   Restarting. Error: 10 6DCED4A1 AC3FF78 AC3FF70 181694 ms
+15:40:44.138 TimerThread not responding...   Restarting. Error: 10 6DCED4A1 AC3FF78 AC3FF70 182412 ms
+15:40:45.871 TimerThread not responding...   Restarting. Error: 10 6DCED4A1 AC3FF78 AC3FF70 183145 ms
+15:40:46.557 TimerThread not responding...   Restarting. Error: 10 6DCED4A1 AC3FF78 AC3FF70 183831 ms
+15:40:48.663 TimerThread not responding...   Restarting. Error: 10 6DCED4A1 AC3FF78 AC3FF70 185937 ms
+15:40:48.365 TimerThread not responding...   Restarting. Error: 10 6DCED4A1 AC3FF78 AC3FF70 186639 ms
+15:40:49.067 TimerThread not responding...   Restarting. Error: 10 6DCED4A1 AC3FF78 AC3FF70 187341 ms
+15:40:50.253 TimerThread not responding...   Restarting. Error: 10 6DCED4A1 AC3FF78 AC3FF70 188527 ms
+15:40:51.282 TimerThread locked up...        Redirecting. Error: 100 6D7F1D7D AB6FF78 AB6FF70 499 ms
+15:40:51.282 Locked on hotkey: Error #501 0 ms
+15:40:52.797 TimerThread not responding...   Restarting. Error: 10 6DCED4A1 AC3FF78 AC3FF70 190071 ms
+15:40:53.499 TimerThread not responding...   Restarting. Error: 10 6DCED4A1 AC3FF78 AC3FF70 190773 ms
+15:40:53.201 TimerThread not responding...   Restarting. Error: 10 6DCED4A1 AC3FF78 AC3FF70 191475 ms
+15:40:54.903 TimerThread not responding...   Restarting. Error: 10 6DCED4A1 AC3FF78 AC3FF70 192177 ms
+15:40:55.652 TimerThread not responding...   Restarting. Error: 10 6DCED4A1 AC3FF78 AC3FF70 192926 ms
+15:40:55.354 TimerThread not responding...   Restarting. Error: 10 6DCED4A1 AC3FF78 AC3FF70 193628 ms
+15:40:56.072 TimerThread not responding...   Restarting. Error: 10 6DCED4A1 AC3FF78 AC3FF70 194346 ms
+15:40:57.789 TimerThread not responding...   Restarting. Error: 10 6DCED4A1 AC3FF78 AC3FF70 195063 ms
+15:40:58.491 TimerThread not responding...   Restarting. Error: 10 6DCED4A1 AC3FF78 AC3FF70 195765 ms
+15:40:58.209 TimerThread not responding...   Restarting. Error: 10 6DCED4A1 AC3FF78 AC3FF70 196483 ms
+15:40:59.911 TimerThread not responding...   Restarting. Error: 10 6DCED4A1 AC3FF78 AC3FF70 197185 ms
+15:41:00.613 TimerThread not responding...   Restarting. Error: 10 6DCED4A1 AC3FF78 AC3FF70 197887 ms
+15:41:00.315 TimerThread not responding...   Restarting. Error: 10 6DCED4A1 AC3FF78 AC3FF70 198589 ms
+15:41:01.048 TimerThread not responding...   Restarting. Error: 10 6DCED4A1 AC3FF78 AC3FF70 199322 ms
+15:41:02.781 TimerThread not responding...   Restarting. Error: 10 6DCED4A1 AC3FF78 AC3FF70 200055 ms
+15:41:03.483 TimerThread not responding...   Restarting. Error: 10 6DCED4A1 AC3FF78 AC3FF70 200757 ms
+15:41:03.185 TimerThread not responding...   Restarting. Error: 10 6DCED4A1 AC3FF78 AC3FF70 201459 ms
+15:41:04.903 TimerThread not responding...   Restarting. Error: 10 6DCED4A1 AC3FF78 AC3FF70 202177 ms
+15:41:05.605 TimerThread not responding...   Restarting. Error: 10 6DCED4A1 AC3FF78 AC3FF70 202879 ms
+15:41:05.307 TimerThread not responding...   Restarting. Error: 10 6DCED4A1 AC3FF78 AC3FF70 203581 ms
+15:41:06.040 TimerThread not responding...   Restarting. Error: 10 6DCED4A1 AC3FF78 AC3FF70 204314 ms
+15:41:07.742 TimerThread not responding...   Restarting. Error: 10 6DCED4A1 AC3FF78 AC3FF70 205016 ms
+15:41:08.460 TimerThread not responding...   Restarting. Error: 10 6DCED4A1 AC3FF78 AC3FF70 205734 ms
+15:41:08.162 TimerThread not responding...   Restarting. Error: 10 6DCED4A1 AC3FF78 AC3FF70 206436 ms
+15:41:09.864 TimerThread not responding...   Restarting. Error: 10 6DCED4A1 AC3FF78 AC3FF70 207138 ms
+15:41:10.566 TimerThread not responding...   Restarting. Error: 10 6DCED4A1 AC3FF78 AC3FF70 207840 ms
+15:41:10.268 TimerThread not responding...   Restarting. Error: 10 6DCED4A1 AC3FF78 AC3FF70 208542 ms
+15:41:11.985 TimerThread not responding...   Restarting. Error: 10 6DCED4A1 AC3FF78 AC3FF70 209259 ms
+15:41:12.734 TimerThread not responding...   Restarting. Error: 10 6DCED4A1 AC3FF78 AC3FF70 210008 ms
+15:41:13.436 TimerThread not responding...   Restarting. Error: 10 6DCED4A1 AC3FF78 AC3FF70 210710 ms
+15:41:13.138 TimerThread not responding...   Restarting. Error: 10 6DCED4A1 AC3FF78 AC3FF70 211412 ms
+15:41:14.840 TimerThread not responding...   Restarting. Error: 10 6DCED4A1 AC3FF78 AC3FF70 212114 ms
+15:41:15.542 TimerThread not responding...   Restarting. Error: 10 6DCED4A1 AC3FF78 AC3FF70 212816 ms
+15:41:15.244 TimerThread not responding...   Restarting. Error: 10 6DCED4A1 AC3FF78 AC3FF70 213518 ms
+15:41:16.946 TimerThread not responding...   Restarting. Error: 10 6DCED4A1 AC3FF78 AC3FF70 214220 ms
+15:41:17.664 TimerThread not responding...   Restarting. Error: 10 6DCED4A1 AC3FF78 AC3FF70 214938 ms
+15:41:17.366 TimerThread not responding...   Restarting. Error: 10 6DCED4A1 AC3FF78 AC3FF70 215640 ms
+15:41:18.068 TimerThread not responding...   Restarting. Error: 10 6DCED4A1 AC3FF78 AC3FF70 216342 ms
+15:41:19.770 TimerThread not responding...   Restarting. Error: 10 6DCED4A1 AC3FF78 AC3FF70 217044 ms
+21:37:46.226 TimerThread not responding...   Restarting. Error: 130 F63D3826 AB6F720 AB6FF70 702 ms
+06:18:03.962 Elfbot NG 4.5.9 - Entry Started on sábado abril 02, 2022
+06:18:03.962 TimerThread locked up...        Redirecting. Error: 100 28D9E AE3FF78 AE3FF70 78 ms
+06:18:03.962 Locked on hotkey: Error #501 47 ms
+05:00:13.875 Elfbot NG 4.5.9 - Entry Started on domingo abril 03, 2022
+05:00:13.890 TimerThread not responding...   Restarting. Error: -10 28D9E AE1FF78 AE1FF70 0 ms
+07:02:54.829 TimerThread not responding...   Restarting. Error: -10 6AB6ECD2 AE1FF78 AE1FF70 0 ms
+10:02:50.096 Elfbot NG 4.5.9 - Entry Started on domingo abril 03, 2022
+10:02:50.096 TimerThread not responding...   Restarting. Error: 100 6C024E99 AF6FF78 AF6FF70 1404 ms
+13:53:40.335 Elfbot NG 4.5.9 - Entry Started on domingo abril 03, 2022
+13:53:40.335 TimerThread locked up...        Redirecting. Error: 130 6B664E99 B29FF78 B29FF70 577 ms
+16:51:02.629 TimerThread not responding...   Restarting. Error: 110 2943D AE1FF78 AE1FF70 0 ms
+16:51:48.696 TimerThread locked up...        Redirecting. Error: 100 6B394E99 AE1FF78 AE1FF70 670 ms
+16:51:48.696 Locked on hotkey: ' if [$hp == 0] { reconnect | gotolabel Start } | wait 1000' on command 'reconnect' 670 ms Error: 502 6B394E99 AE1FF18 AE1F72C
+21:06:45.437 TimerThread locked up...        Redirecting. Error: -10 6CD9D961 B29FF78 B29FF70 0 ms
+21:21:18.372 Elfbot NG 4.5.9 - Entry Started on domingo abril 03, 2022
+21:21:18.372 TimerThread locked up...        Redirecting. Error: 130 F643331A ACEFF78 ACEFF70 500 ms
+21:33:00.000 TimerThread locked up...        Redirecting. Error: 130 6B394E99 AE1FF78 AE1FF70 499 ms
+01:08:01.362 Elfbot NG 4.5.9 - Entry Started on segunda-feira abril 04, 2022
+01:08:01.378 TimerThread not responding...   Restarting. Error: 130 6C794E99 A81FF78 A81FF70 1326 ms
+10:43:01.118 Elfbot NG 4.5.9 - Entry Started on segunda-feira abril 04, 2022
+10:43:01.133 TimerThread locked up...        Redirecting. Error: 130 F611E770 B0DFF78 B0DFF70 671 ms
+10:43:01.180 Elfbot NG 4.5.9 - Entry Started on segunda-feira abril 04, 2022
+10:43:01.180 TimerThread not responding...   Restarting. Error: 130 6D474E99 BD7FF78 BD7FF70 796 ms
+10:43:01.305 Elfbot NG 4.5.9 - Entry Started on segunda-feira abril 04, 2022
+10:43:01.305 TimerThread not responding...   Restarting. Error: 130 F54AD250 D04FF78 D04FF70 889 ms
+16:56:40.850 TimerThread locked up...        Redirecting. Error: 100 6D261D7D B0DFF78 B0DFF70 499 ms
+16:56:40.850 Locked on hotkey: Error #501 0 ms
+16:56:40.881 Elfbot NG 4.5.9 - Entry Started on segunda-feira abril 04, 2022
+16:56:40.881 TimerThread locked up...        Redirecting. Error: 100 6D641D7D AC8FF78 AC8FF70 562 ms
+16:56:40.881 Locked on hotkey: Error #501 0 ms
+02:08:06.961 Elfbot NG 4.5.9 - Entry Started on terça-feira abril 05, 2022
+02:08:06.977 TimerThread locked up...        Redirecting. Error: 170 6C5ADD2D B0CFF78 B0CFF70 499 ms
+02:08:06.164 TimerThread not responding...   Restarting. Error: 170 203BB B0CFF78 B0CFF70 702 ms
+08:06:56.613 TimerThread not responding...   Restarting. Error: 100 F4F8CFF2 AFCFF78 AFCFF70 983 ms
+08:06:56.613 Locked on hotkey: ' if [$hp == 0] { reconnect | gotolabel Start } | wait 1000' on command 'reconnect' 983 ms Error: 502 F4F8CFF2 AFCFF18 AFCF72C
+19:16:55.605 Elfbot NG 4.5.9 - Entry Started on terça-feira abril 05, 2022
+19:16:55.605 TimerThread not responding...   Restarting. Error: 100 6D3ABBBA B3BFF78 B3BFF70 748 ms
+19:16:55.605 Locked on hotkey: ' if [$hp == 0] { reconnect | gotolabel Start } | wait 1000' on command 'reconnect' 748 ms Error: 502 6D3ABBBA B3BFF18 B3BF72C
+20:55:53.815 TimerThread locked up...        Redirecting. Error: 100 2E23F 9D9FF78 9D9FF70 500 ms
+21:06:13.903 Elfbot NG 4.5.9 - Entry Started on terça-feira abril 05, 2022
+21:06:13.903 TimerThread not responding...   Restarting. Error: 100 2943D AF1FF78 AF1FF70 3557 ms
+21:21:44.480 TimerThread not responding...   Restarting. Error: -10 28D9E 9D9FF78 9D9FF70 15 ms
+02:29:11.427 Elfbot NG 4.5.9 - Entry Started on quarta-feira abril 06, 2022
+02:29:11.427 TimerThread locked up...        Redirecting. Error: 100 6DA14E99 AB9FF78 AB9FF70 577 ms
+02:29:11.427 Locked on hotkey: ' if [$hp == 0] { reconnect | gotolabel Start } | wait 1000' on command 'reconnect' 577 ms Error: 502 6DA14E99 AB9FF18 AB9F72C
+03:15:16.794 TimerThread not responding...   Restarting. Error: 100 F68279C6 AB9FF78 AB9FF70 749 ms
+03:15:16.794 Locked on hotkey: ' if [$hp == 0] { reconnect | gotolabel Start } | wait 1000' on command 'reconnect' 749 ms Error: 502 F68279C6 AB9FF18 AB9F72C
+03:15:17.808 TimerThread locked up...        Redirecting. Error: 100 6DA2EBEF DD6FF78 DD6FF70 608 ms
+03:15:17.824 TimerThread locked up...        Redirecting. Error: 100 6DA2EBEF DD6FF78 DD6FF70 624 ms
+03:15:17.839 TimerThread locked up...        Redirecting. Error: 100 6DA2EBEF DD6FF78 DD6FF70 639 ms
+03:15:17.839 TimerThread locked up...        Redirecting. Error: 100 6DA2EBEF DD6FF78 DD6FF70 639 ms
+03:15:17.855 TimerThread locked up...        Redirecting. Error: 100 6DA2EBEF DD6FF78 DD6FF70 655 ms
+03:15:17.871 TimerThread locked up...        Redirecting. Error: 100 6DA2EBEF DD6FF78 DD6FF70 671 ms
+03:15:17.871 TimerThread locked up...        Redirecting. Error: 100 6DA2EBEF DD6FF78 DD6FF70 671 ms
+03:15:17.886 TimerThread not responding...   Restarting. Error: 100 6DA2EBEF DD6FF78 DD6FF70 686 ms
+03:15:18.401 TimerThread locked up...        Redirecting. Error: 100 6DA2EBEF DD6FF78 DD6FF70 1201 ms
+03:15:18.401 TimerThread locked up...        Redirecting. Error: 100 6DA2EBEF DD6FF78 DD6FF70 1201 ms
+03:15:18.401 TimerThread locked up...        Redirecting. Error: 100 6DA2EBEF DD6FF78 DD6FF70 1201 ms
+03:15:18.401 TimerThread locked up...        Redirecting. Error: 100 6DA2EBEF DD6FF78 DD6FF70 1201 ms
+03:15:18.401 TimerThread locked up...        Redirecting. Error: 100 6DA2EBEF DD6FF78 DD6FF70 1201 ms
+03:15:18.417 TimerThread locked up...        Redirecting. Error: 100 6DA2EBEF DD6FF78 DD6FF70 1217 ms
+03:15:18.417 TimerThread locked up...        Redirecting. Error: 100 6DA2EBEF DD6FF78 DD6FF70 1217 ms
+03:15:18.417 TimerThread locked up...        Redirecting. Error: 100 6DA2EBEF DD6FF78 DD6FF70 1217 ms
+03:15:18.417 TimerThread locked up...        Redirecting. Error: 100 6DA2EBEF DD6FF78 DD6FF70 1217 ms
+03:15:18.807 TimerThread not responding...   Restarting. Error: 100 6DA2EBEF DD6FF78 DD6FF70 1607 ms
+21:28:05.804 Elfbot NG 4.5.9 - Entry Started on quarta-feira abril 06, 2022
+21:28:05.820 Elfbot NG 4.5.9 - Entry Started on quarta-feira abril 06, 2022
+21:28:05.866 TimerThread locked up...        Redirecting. Error: 100 6B381D7D A83FF78 A83FF70 16 ms
+21:28:05.866 TimerThread locked up...        Redirecting. Error: 100 6AFA1D7D AC1FF78 AC1FF70 16 ms
+05:06:33.115 Elfbot NG 4.5.9 - Entry Started on quinta-feira abril 07, 2022
+05:06:33.115 TimerThread not responding...   Restarting. Error: -10 6D3BD961 629FF78 629FF70 0 ms
+10:43:25.792 TimerThread not responding...   Restarting. Error: -10 6D3BD961 3FEFF78 3FEFF70 0 ms
+10:45:47.644 Elfbot NG 4.5.9 - Entry Started on quinta-feira abril 07, 2022
+10:45:47.644 TimerThread not responding...   Restarting. Error: -10 6D63D961 A68FF78 A68FF70 0 ms
+12:01:43.230 TimerThread not responding...   Restarting. Error: -10 6D3BD961 3FEFF78 3FEFF70 0 ms
+12:47:53.482 TimerThread not responding...   Restarting. Error: -10 6D3BD961 3FEFF78 3FEFF70 0 ms
+02:04:50.815 TimerThread not responding...   Restarting. Error: -10 6D63D961 999FF78 999FF70 0 ms
+04:21:29.993 TimerThread not responding...   Restarting. Error: -10 6D48D961 A83FF78 A83FF70 0 ms
+06:33:44.793 Elfbot NG 4.5.9 - Entry Started on domingo abril 10, 2022
+06:33:44.808 TimerThread not responding...   Restarting. Error: -10 29434 ACDFF78 ACDFF70 0 ms
+06:33:44.824 Locked on hotkey: ' listas 'Re-Conect' | ifnot '$connected' {reconnect | gotolabel Start | wait 6000}' on command 'reconnect' 16 ms Error: 502 29434 ACDFF18 ACDF72C
+06:47:53.094 Elfbot NG 4.5.9 - Entry Started on domingo abril 10, 2022
+06:47:53.094 TimerThread not responding...   Restarting. Error: 100 292FE B16FF78 B16FF70 1248 ms
+06:47:53.109 Locked on hotkey: ' listas 'Re-Conect' | ifnot '$connected' {reconnect | gotolabel Start | wait 6000}' on command 'reconnect' 0 ms Error: 502 292FE B16FF18 B16F72C
+10:19:35.163 Elfbot NG 4.5.9 - Entry Started on domingo abril 10, 2022
+10:19:35.163 TimerThread not responding...   Restarting. Error: -10 6CE3D961 B11FF78 B11FF70 0 ms
+22:30:22.021 TimerThread locked up...        Redirecting. Error: 100 6AA81D7D 62FFF78 62FFF70 531 ms
+22:31:19.694 TimerThread locked up...        Redirecting. Error: -10 6CE3D961 62FFF78 62FFF70 15 ms
+02:51:56.267 Elfbot NG 4.5.9 - Entry Started on terça-feira abril 12, 2022
+02:51:56.282 TimerThread not responding...   Restarting. Error: 100 F60B8B14 B23FF78 B23FF70 874 ms
+02:51:56.282 Locked on hotkey: ' listas 'Re-Conect' | ifnot '$connected' {reconnect | gotolabel Start | wait 6000}' on command 'reconnect' 889 ms Error: 502 F60B8B14 B23FF18 B23F72C
+13:37:10.192 Elfbot NG 4.5.9 - Entry Started on terça-feira abril 12, 2022
+13:37:10.192 TimerThread not responding...   Restarting. Error: 100 6CE2D961 B22FF78 B22FF70 1482 ms
+13:37:10.192 Locked on hotkey: ' listas 'Re-Conect' | ifnot '$connected' {reconnect | gotolabel Start | wait 6000}' on command 'reconnect' 1482 ms Error: 502 6CE2D961 B22FF18 B22F72C
+14:11:11.075 TimerThread not responding...   Restarting. Error: 100 6AD54E99 B23FF78 B23FF70 1716 ms
+14:11:11.075 Locked on hotkey: ' listas 'Re-Conect' | ifnot '$connected' {reconnect | gotolabel Start | wait 6000}' on command 'reconnect' 1716 ms Error: 502 6AD54E99 B23FF18 B23F72C
+15:28:50.014 TimerThread not responding...   Restarting. Error: 100 6AD54E99 FB7FF78 FB7FF70 2745 ms
+15:28:50.014 Locked on hotkey: ' listas 'Re-Conect' | ifnot '$connected' {reconnect | gotolabel Start | wait 6000}' on command 'reconnect' 2745 ms Error: 502 6AD54E99 FB7FF18 FB7F72C
+15:41:32.578 Elfbot NG 4.5.9 - Entry Started on terça-feira abril 12, 2022
+15:41:32.578 TimerThread not responding...   Restarting. Error: -10 6D1CD961 AEDFF78 AEDFF70 0 ms
+17:49:07.235 TimerThread not responding...   Restarting. Error: 100 F61B4451 AEDFF78 AEDFF70 2294 ms
+17:49:07.235 Locked on hotkey: ' listas 'Re-Conect' | ifnot '$connected' {reconnect | gotolabel Start | wait 6000}' on command 'reconnect' 2309 ms Error: 502 F61B4451 AEDFF18 AEDF72C
+19:54:56.124 TimerThread not responding...   Restarting. Error: 100 F61C0630 C43FF78 C43FF70 2013 ms
+19:54:56.124 Locked on hotkey: ' listas 'Re-Conect' | ifnot '$connected' {reconnect | gotolabel Start | wait 6000}' on command 'reconnect' 2013 ms Error: 502 F61C0630 C43FF18 C43F72C
+22:34:13.650 TimerThread not responding...   Restarting. Error: 100 F5E2DB1D B22FF78 B22FF70 1389 ms
+22:34:13.650 Locked on hotkey: ' listas 'Re-Conect' | ifnot '$connected' {reconnect | gotolabel Start | wait 6000}' on command 'reconnect' 1389 ms Error: 502 F5E2DB1D B22FF18 B22F72C
+04:03:59.069 Elfbot NG 4.5.9 - Entry Started on quarta-feira abril 13, 2022
+04:03:59.069 TimerThread not responding...   Restarting. Error: -10 6D29D961 ABBFF78 ABBFF70 15 ms
+05:16:08.066 Elfbot NG 4.5.9 - Entry Started on quarta-feira abril 13, 2022
+05:16:08.066 TimerThread not responding...   Restarting. Error: -10 6D2CD961 AB8FF78 AB8FF70 16 ms
+08:26:02.098 TimerThread locked up...        Redirecting. Error: 100 293A4 10B0FF78 10B0FF70 499 ms
+08:26:07.699 TimerThread locked up...        Redirecting. Error: 100 6CE3BF68 10B0FF78 10B0FF70 484 ms
+08:26:07.699 Locked on hotkey: ' if [$hp == 0] { reconnect | gotolabel Start } | wait 1000' on command 'reconnect' 484 ms Error: 502 6CE3BF68 10B0FF18 10B0F72C
+08:26:15.452 TimerThread locked up...        Redirecting. Error: 100 6AA64E99 10B0FF78 10B0FF70 671 ms
+08:26:15.452 Locked on hotkey: ' if [$hp == 0] { reconnect | gotolabel Start } | wait 1000' on command 'reconnect' 671 ms Error: 502 6AA64E99 10B0FF18 10B0F72C
+09:19:16.546 TimerThread not responding...   Restarting. Error: 100 6AE04E99 10A0FF78 10A0FF70 1575 ms
+09:19:16.546 Locked on hotkey: ' if [$hp == 0] { reconnect | gotolabel Start } | wait 1000' on command 'reconnect' 1575 ms Error: 502 6AE04E99 10A0FF18 10A0F72C
+11:13:42.509 Elfbot NG 4.5.9 - Entry Started on quarta-feira abril 13, 2022
+11:13:42.509 TimerThread not responding...   Restarting. Error: 100 6D47D961 ACAFF78 ACAFF70 702 ms
+11:13:42.509 Locked on hotkey: ' listas 'Re-Conect' | ifnot '$connected' {reconnect | gotolabel Start | wait 6000}' on command 'reconnect' 702 ms Error: 502 6D47D961 ACAFF18 ACAF72C
+12:30:43.149 Elfbot NG 4.5.9 - Entry Started on quarta-feira abril 13, 2022
+12:30:43.149 TimerThread not responding...   Restarting. Error: 100 6D33D961 AB6FF78 AB6FF70 1450 ms
+12:30:43.149 Locked on hotkey: ' listas 'Re-Conect' | ifnot '$connected' {reconnect | gotolabel Start | wait 6000}' on command 'reconnect' 1450 ms Error: 502 6D33D961 AB6FF18 AB6F72C
+13:29:26.494 Elfbot NG 4.5.9 - Entry Started on quarta-feira abril 13, 2022
+13:29:26.494 TimerThread not responding...   Restarting. Error: 100 6D39D961 ACAFF78 ACAFF70 1170 ms
+13:29:26.494 Locked on hotkey: ' if [$hp == 0] { reconnect | gotolabel Start2 } | wait 1000' on command 'reconnect' 1170 ms Error: 502 6D39D961 ACAFF18 ACAF72C
+13:29:29.692 TimerThread not responding...   Restarting. Error: -10 28D9E 616FF78 616FF70 15 ms
+13:29:43.796 TimerThread not responding...   Restarting. Error: 100 F648331D 616FF78 616FF70 717 ms
+13:29:43.796 Locked on hotkey: ' if [$hp == 0] { reconnect | gotolabel Start2 } | wait 1000' on command 'reconnect' 717 ms Error: 502 F648331D 616FF18 616F72C
+13:57:42.709 Elfbot NG 4.5.9 - Entry Started on quarta-feira abril 13, 2022
+13:57:42.709 TimerThread not responding...   Restarting. Error: -10 6D47D961 ACBFF78 ACBFF70 0 ms
+13:58:28.058 Elfbot NG 4.5.9 - Entry Started on quarta-feira abril 13, 2022
+13:58:28.058 TimerThread not responding...   Restarting. Error: 100 6AE84E99 A19FF78 A19FF70 4118 ms
+13:58:28.058 Locked on hotkey: ' if [$hp == 0] { reconnect | gotolabel Start2 } | wait 1000' on command 'reconnect' 4118 ms Error: 502 6AE84E99 A19FF18 A19F72C
+14:08:44.465 TimerThread not responding...   Restarting. Error: 100 F64237B8 AB6FF78 AB6FF70 3011 ms
+14:08:44.465 Locked on hotkey: ' listas 'Re-Conect' | ifnot '$connected' {reconnect | gotolabel Start | wait 6000}' on command 'reconnect' 3011 ms Error: 502 F64237B8 AB6FF18 AB6F72C
+14:08:44.668 Elfbot NG 4.5.9 - Entry Started on quarta-feira abril 13, 2022
+14:08:44.668 TimerThread not responding...   Restarting. Error: 100 6D37D961 B6AFF78 B6AFF70 3432 ms
+14:08:44.668 Locked on hotkey: ' listas 'Re-Conect' | ifnot '$connected' {reconnect | gotolabel Start | wait 6000}' on command 'reconnect' 3432 ms Error: 502 6D37D961 B6AFF18 B6AF72C
+14:08:45.839 Elfbot NG 4.5.9 - Entry Started on quarta-feira abril 13, 2022
+14:08:45.839 TimerThread not responding...   Restarting. Error: 100 F63C382D ACDFF78 ACDFF70 3603 ms
+14:08:45.839 Locked on hotkey: ' listas 'Re-Conect' | ifnot '$connected' {reconnect | gotolabel Start | wait 6000}' on command 'reconnect' 3603 ms Error: 502 F63C382D ACDFF18 ACDF72C
+15:09:47.618 TimerThread not responding...   Restarting. Error: 100 6D39593A B6AFF78 B6AFF70 1466 ms
+15:09:47.618 Locked on hotkey: ' listas 'Re-Conect' | ifnot '$connected' {reconnect | gotolabel Start | wait 6000}' on command 'reconnect' 1466 ms Error: 502 6D39593A B6AFF18 B6AF72C
+15:40:37.494 TimerThread not responding...   Restarting. Error: 100 F62438AB E51FF78 E51FF70 2060 ms
+15:40:37.494 Locked on hotkey: ' listas 'Re-Conect' | ifnot '$connected' {reconnect | wait 6000}' on command 'reconnect' 2060 ms Error: 502 F62438AB E51FF18 E51F72C
+16:39:38.077 TimerThread not responding...   Restarting. Error: 100 F637D1D7 ED0FF78 ED0FF70 2340 ms
+16:39:38.077 Locked on hotkey: ' listas 'Re-Conect' | ifnot '$connected' {reconnect | wait 6000}' on command 'reconnect' 2340 ms Error: 502 F637D1D7 ED0FF18 ED0F72C
+17:35:17.122 TimerThread not responding...   Restarting. Error: 100 6D37D961 1110FF78 1110FF70 2855 ms
+17:35:17.122 Locked on hotkey: ' listas 'Re-Conect' | ifnot '$connected' {reconnect | wait 6000}' on command 'reconnect' 2855 ms Error: 502 6D37D961 1110FF18 1110F72C
+17:35:17.169 TimerThread not responding...   Restarting. Error: 100 F628E81F 126DFF78 126DFF70 2793 ms
+17:35:17.169 Locked on hotkey: ' listas 'Re-Conect' | ifnot '$connected' {reconnect | wait 6000}' on command 'reconnect' 2793 ms Error: 502 F628E81F 126DFF18 126DF72C
+17:35:18.746 TimerThread locked up...        Redirecting. Error: 100 6AFCEBEF 1250FF78 1250FF70 546 ms
+17:35:18.762 TimerThread locked up...        Redirecting. Error: 100 6AFCEBEF 1250FF78 1250FF70 562 ms
+17:35:18.762 TimerThread locked up...        Redirecting. Error: 100 6AFCEBEF 1250FF78 1250FF70 562 ms
+17:35:18.762 TimerThread locked up...        Redirecting. Error: 100 6AFCEBEF 1250FF78 1250FF70 562 ms
+17:35:18.777 TimerThread locked up...        Redirecting. Error: 100 6AFCEBEF 1250FF78 1250FF70 577 ms
+17:35:18.777 TimerThread locked up...        Redirecting. Error: 100 6AFCEBEF 1250FF78 1250FF70 577 ms
+17:35:18.777 TimerThread locked up...        Redirecting. Error: 100 6AFCEBEF 1250FF78 1250FF70 577 ms
+17:35:18.777 TimerThread locked up...        Redirecting. Error: 100 6AFCEBEF 1250FF78 1250FF70 577 ms
+17:35:18.902 TimerThread not responding...   Restarting. Error: 100 6AFCEBEF 1250FF78 1250FF70 702 ms
+17:35:18.448 TimerThread locked up...        Redirecting. Error: 100 6AFCEBEF 1250FF78 1250FF70 1248 ms
+17:35:18.448 TimerThread locked up...        Redirecting. Error: 100 6AFCEBEF 1250FF78 1250FF70 1248 ms
+17:35:18.464 TimerThread locked up...        Redirecting. Error: 100 6AFCEBEF 1250FF78 1250FF70 1264 ms
+17:35:18.464 TimerThread locked up...        Redirecting. Error: 100 6AFCEBEF 1250FF78 1250FF70 1264 ms
+17:35:18.526 TimerThread locked up...        Redirecting. Error: 100 6AFCEBEF 1250FF78 1250FF70 1326 ms
+17:35:18.573 TimerThread locked up...        Redirecting. Error: 100 6AFCEBEF 1250FF78 1250FF70 1373 ms
+17:35:18.588 TimerThread locked up...        Redirecting. Error: 100 6AFCEBEF 1250FF78 1250FF70 1388 ms
+17:35:18.588 TimerThread locked up...        Redirecting. Error: 100 6AFCEBEF 1250FF78 1250FF70 1388 ms
+17:35:19.807 TimerThread not responding...   Restarting. Error: 100 6AFCEBEF 1250FF78 1250FF70 1607 ms
+18:49:26.959 TimerThread not responding...   Restarting. Error: 100 F62CADD6 ACDFF78 ACDFF70 2309 ms
+18:49:26.959 Locked on hotkey: ' listas 'Re-Conect' | ifnot '$connected' {reconnect | wait 6000}' on command 'reconnect' 2309 ms Error: 502 F62CADD6 ACDFF18 ACDF72C
+22:55:21.095 TimerThread not responding...   Restarting. Error: 100 6D26237E 12BDFF78 12BDFF70 2028 ms
+22:55:21.095 Locked on hotkey: ' listas 'Re-Conect' | ifnot '$connected' {reconnect | wait 6000}' on command 'reconnect' 2028 ms Error: 502 6D26237E 12BDFF18 12BDF72C
+07:04:22.574 Elfbot NG 4.5.9 - Entry Started on quinta-feira abril 14, 2022
+07:04:22.574 TimerThread not responding...   Restarting. Error: 100 F62A34F1 A11FF78 A11FF70 1466 ms
+07:04:22.574 Locked on hotkey: ' listas 'Re-Conect' | ifnot '$connected' {reconnect | wait 6000}' on command 'reconnect' 1466 ms Error: 502 F62A34F1 A11FF18 A11F72C
+08:06:49.063 TimerThread not responding...   Restarting. Error: 100 28DD5 AB6FF78 AB6FF70 1357 ms
+09:05:04.265 TimerThread not responding...   Restarting. Error: 100 6AF74E99 AB6FF78 AB6FF70 827 ms
+09:05:04.265 Locked on hotkey: ' if [$hp == 0] { reconnect | gotolabel Start } | wait 1000' on command 'reconnect' 827 ms Error: 502 6AF74E99 AB6FF18 AB6F72C
+10:06:30.272 TimerThread not responding...   Restarting. Error: 100 6AF74E99 10D0FF78 10D0FF70 1450 ms
+10:06:30.272 Locked on hotkey: ' if [$hp == 0] { reconnect | gotolabel Start } | wait 1000' on command 'reconnect' 1450 ms Error: 502 6AF74E99 10D0FF18 10D0F72C
+10:30:08.150 Elfbot NG 4.5.9 - Entry Started on quinta-feira abril 14, 2022
+10:30:08.150 TimerThread locked up...        Redirecting. Error: -10 6D33D961 AD1FF78 AD1FF70 546 ms
+10:30:09.492 TimerThread locked up...        Redirecting. Error: -10 6D33D961 AD1FF78 AD1FF70 812 ms
+03:56:18.732 Elfbot NG 4.5.9 - Entry Started on sábado abril 16, 2022
+03:56:18.732 TimerThread not responding...   Restarting. Error: -10 709FD961 AD5FF78 AD5FF70 0 ms
+00:01:27.035 TimerThread not responding...   Restarting. Error: 130 6F244E99 AD5FF78 AD5FF70 1295 ms
+14:30:15.987 Elfbot NG 4.5.9 - Entry Started on domingo abril 17, 2022
+14:30:15.987 TimerThread locked up...        Redirecting. Error: 100 6D65D961 ABEFF78 ABEFF70 499 ms
+14:30:15.987 Locked on hotkey: ' ifnot $connected {reconnect | gotolabel Trainer2}' on command 'reconnect' 499 ms Error: 502 6D65D961 ABEFF18 ABEF72C
+14:32:44.843 Elfbot NG 4.5.9 - Entry Started on domingo abril 17, 2022
+14:32:44.843 TimerThread not responding...   Restarting. Error: -10 6D69D961 A69FF78 A69FF70 0 ms
+01:40:19.346 TimerThread not responding...   Restarting. Error: 100 6BEA4E99 ABEFF78 ABEFF70 1310 ms
+01:40:19.362 Locked on hotkey: ' ifnot $connected {reconnect | gotolabel Trainer2}' on command 'reconnect' 1326 ms Error: 502 6BEA4E99 ABEFF18 ABEF72C
+01:40:19.533 TimerThread not responding...   Restarting. Error: 100 6D6ABFBF 97DFF78 97DFF70 1654 ms
+01:40:19.533 Locked on hotkey: ' ifnot $connected {reconnect | gotolabel Trainer2}' on command 'reconnect' 1669 ms Error: 502 6D6ABFBF 97DFF18 97DF72C
+10:30:44.470 TimerThread not responding...   Restarting. Error: 130 70A1237E 1090FF78 1090FF70 1918 ms
+10:38:24.221 Elfbot NG 4.5.9 - Entry Started on segunda-feira abril 18, 2022
+10:38:24.221 TimerThread not responding...   Restarting. Error: 100 6D53D961 B51FF78 B51FF70 1482 ms
+10:38:24.221 Locked on hotkey: ' ifnot $connected {reconnect | gotolabel Trainer2}' on command 'reconnect' 1482 ms Error: 502 6D53D961 B51FF18 B51F72C
+15:05:27.052 TimerThread locked up...        Redirecting. Error: 100 6BEA4E99 151BFF78 151BFF70 609 ms
+15:05:27.052 Locked on hotkey: ' ifnot $connected {reconnect | gotolabel Trainer2}' on command 'reconnect' 609 ms Error: 502 6BEA4E99 151BFF18 151BF72C
+15:05:27.067 TimerThread locked up...        Redirecting. Error: 100 F6347002 1240FF78 1240FF70 514 ms
+15:05:27.067 Locked on hotkey: ' ifnot $connected {reconnect | gotolabel Trainer2}' on command 'reconnect' 514 ms Error: 502 F6347002 1240FF18 1240F72C
+15:05:28.676 TimerThread not responding...   Restarting. Error: 130 70A14F26 D48FF78 D48FF70 1794 ms
+15:05:46.365 TimerThread locked up...        Redirecting. Error: 100 6D69D961 1240FF78 1240FF70 546 ms
+15:05:46.365 Locked on hotkey: ' ifnot $connected {reconnect | gotolabel Trainer2}' on command 'reconnect' 546 ms Error: 502 6D69D961 1240FF18 1240F72C
+15:10:22.128 TimerThread locked up...        Redirecting. Error: -10 6C211DB1 1240FF78 1240FF70 0 ms
+15:16:42.505 TimerThread locked up...        Redirecting. Error: 100 6D69D961 1240FF78 1240FF70 608 ms
+15:16:42.505 Locked on hotkey: ' ifnot $connected {reconnect | gotolabel Trainer2}' on command 'reconnect' 608 ms Error: 502 6D69D961 1240FF18 1240F72C
+15:20:28.628 TimerThread locked up...        Redirecting. Error: 100 6D69D961 1240FF78 1240FF70 608 ms
+15:20:28.628 Locked on hotkey: ' ifnot $connected {reconnect | gotolabel Trainer2}' on command 'reconnect' 608 ms Error: 502 6D69D961 1240FF18 1240F72C
+15:20:56.038 TimerThread locked up...        Redirecting. Error: 100 6BEE4E99 1240FF78 1240FF70 640 ms
+15:20:56.038 Locked on hotkey: ' ifnot $connected {reconnect | gotolabel Trainer2}' on command 'reconnect' 640 ms Error: 502 6BEE4E99 1240FF18 1240F72C
+15:30:53.412 TimerThread not responding...   Restarting. Error: 100 6D69D961 1240FF78 1240FF70 764 ms
+15:30:53.412 Locked on hotkey: ' ifnot $connected {reconnect | gotolabel Trainer2}' on command 'reconnect' 764 ms Error: 502 6D69D961 1240FF18 1240F72C
+15:30:54.005 TimerThread locked up...        Redirecting. Error: 100 6BEFEBEF 99DFF78 99DFF70 499 ms
+15:30:54.021 TimerThread locked up...        Redirecting. Error: 100 6BEFEBEF 99DFF78 99DFF70 515 ms
+15:30:54.036 TimerThread locked up...        Redirecting. Error: 100 6BEFEBEF 99DFF78 99DFF70 530 ms
+15:30:54.052 TimerThread locked up...        Redirecting. Error: 100 6BEFEBEF 99DFF78 99DFF70 546 ms
+15:30:54.068 TimerThread locked up...        Redirecting. Error: 100 6BEFEBEF 99DFF78 99DFF70 562 ms
+15:30:54.099 TimerThread locked up...        Redirecting. Error: 100 6BEFEBEF 99DFF78 99DFF70 593 ms
+15:30:54.114 TimerThread locked up...        Redirecting. Error: 100 6BEFEBEF 99DFF78 99DFF70 608 ms
+15:30:54.114 TimerThread locked up...        Redirecting. Error: 100 6BEFEBEF 99DFF78 99DFF70 608 ms
+15:30:54.114 TimerThread locked up...        Redirecting. Error: 100 6BEFEBEF 99DFF78 99DFF70 608 ms
+15:30:54.130 TimerThread locked up...        Redirecting. Error: 100 6BEFEBEF 99DFF78 99DFF70 624 ms
+15:30:54.130 TimerThread locked up...        Redirecting. Error: 100 6BEFEBEF 99DFF78 99DFF70 624 ms
+15:30:54.130 TimerThread locked up...        Redirecting. Error: 100 6BEFEBEF 99DFF78 99DFF70 624 ms
+15:30:54.130 TimerThread locked up...        Redirecting. Error: 100 6BEFEBEF 99DFF78 99DFF70 624 ms
+15:30:54.146 TimerThread locked up...        Redirecting. Error: 100 6BEFEBEF 99DFF78 99DFF70 640 ms
+15:30:54.146 TimerThread locked up...        Redirecting. Error: 100 6BEFEBEF 99DFF78 99DFF70 640 ms
+15:30:54.161 TimerThread locked up...        Redirecting. Error: 100 6BEFEBEF 99DFF78 99DFF70 655 ms
+15:30:54.161 TimerThread locked up...        Redirecting. Error: 100 6BEFEBEF 99DFF78 99DFF70 655 ms
+15:30:54.161 TimerThread locked up...        Redirecting. Error: 100 6BEFEBEF 99DFF78 99DFF70 655 ms
+15:30:54.177 TimerThread locked up...        Redirecting. Error: 100 6BEFEBEF 99DFF78 99DFF70 671 ms
+15:30:54.192 TimerThread not responding...   Restarting. Error: 100 6BEFEBEF 99DFF78 99DFF70 686 ms
+20:22:26.600 Elfbot NG 4.5.9 - Entry Started on terça-feira abril 19, 2022
+20:22:26.600 TimerThread not responding...   Restarting. Error: 100 6D58D961 AE5FF78 AE5FF70 842 ms
+20:22:26.600 Locked on hotkey: ' ifnot $connected {reconnect | gotolabel Trainer2}' on command 'reconnect' 842 ms Error: 502 6D58D961 AE5FF18 AE5F72C
+22:15:45.217 Elfbot NG 4.5.9 - Entry Started on terça-feira abril 19, 2022
+22:15:45.217 TimerThread not responding...   Restarting. Error: -10 28D9E ABBFF78 ABBFF70 0 ms
+00:19:35.451 TimerThread not responding...   Restarting. Error: 100 6D59BFBF 12E0FF78 12E0FF70 873 ms
+00:19:35.451 Locked on hotkey: ' ifnot $connected {reconnect | gotolabel Trainer2}' on command 'reconnect' 873 ms Error: 502 6D59BFBF 12E0FF18 12E0F72C
+00:19:36.278 TimerThread not responding...   Restarting. Error: 100 6D66BFBF 151BFF78 151BFF70 1326 ms
+00:19:36.278 Locked on hotkey: ' ifnot $connected {reconnect | gotolabel Trainer2}' on command 'reconnect' 1326 ms Error: 502 6D66BFBF 151BFF18 151BF72C
+18:42:47.393 TimerThread locked up...        Redirecting. Error: 100 6BEA4E99 132BFF78 132BFF70 639 ms
+18:42:47.393 Locked on hotkey: ' ifnot $connected {reconnect | gotolabel Trainer2}' on command 'reconnect' 639 ms Error: 502 6BEA4E99 132BFF18 132BF72C
+18:42:47.440 TimerThread locked up...        Redirecting. Error: 100 6BDD4E99 1200FF78 1200FF70 499 ms
+18:42:47.440 Locked on hotkey: ' ifnot $connected {reconnect | gotolabel Trainer2}' on command 'reconnect' 499 ms Error: 502 6BDD4E99 1200FF18 1200F72C
+18:42:48.783 TimerThread not responding...   Restarting. Error: 130 70A0BF7C D00FF78 D00FF70 1357 ms
+20:13:51.484 TimerThread not responding...   Restarting. Error: 100 F6279126 1200FF78 1200FF70 1014 ms
+20:13:51.484 Locked on hotkey: ' ifnot $connected {reconnect | gotolabel Trainer2}' on command 'reconnect' 1014 ms Error: 502 F6279126 1200FF18 1200F72C
+20:13:52.061 TimerThread locked up...        Redirecting. Error: 100 6BDEEBEF 3E7FF78 3E7FF70 514 ms
+20:13:52.061 TimerThread locked up...        Redirecting. Error: 100 6BDEEBEF 3E7FF78 3E7FF70 514 ms
+20:13:52.077 TimerThread locked up...        Redirecting. Error: 100 6BDEEBEF 3E7FF78 3E7FF70 530 ms
+20:13:52.077 TimerThread locked up...        Redirecting. Error: 100 6BDEEBEF 3E7FF78 3E7FF70 530 ms
+20:13:52.093 TimerThread locked up...        Redirecting. Error: 100 6BDEEBEF 3E7FF78 3E7FF70 546 ms
+20:13:52.093 TimerThread locked up...        Redirecting. Error: 100 6BDEEBEF 3E7FF78 3E7FF70 546 ms
+20:13:52.093 TimerThread locked up...        Redirecting. Error: 100 6BDEEBEF 3E7FF78 3E7FF70 546 ms
+20:13:52.108 TimerThread locked up...        Redirecting. Error: 100 6BDEEBEF 3E7FF78 3E7FF70 561 ms
+20:13:52.108 TimerThread locked up...        Redirecting. Error: 100 6BDEEBEF 3E7FF78 3E7FF70 561 ms
+20:13:52.124 TimerThread locked up...        Redirecting. Error: 100 6BDEEBEF 3E7FF78 3E7FF70 577 ms
+20:13:52.124 TimerThread locked up...        Redirecting. Error: 100 6BDEEBEF 3E7FF78 3E7FF70 577 ms
+20:13:52.124 TimerThread locked up...        Redirecting. Error: 100 6BDEEBEF 3E7FF78 3E7FF70 577 ms
+20:13:52.139 TimerThread locked up...        Redirecting. Error: 100 6BDEEBEF 3E7FF78 3E7FF70 592 ms
+20:13:52.139 TimerThread locked up...        Redirecting. Error: 100 6BDEEBEF 3E7FF78 3E7FF70 592 ms
+20:13:52.155 TimerThread locked up...        Redirecting. Error: 100 6BDEEBEF 3E7FF78 3E7FF70 608 ms
+20:13:52.155 TimerThread locked up...        Redirecting. Error: 100 6BDEEBEF 3E7FF78 3E7FF70 608 ms
+20:13:52.155 TimerThread locked up...        Redirecting. Error: 100 6BDEEBEF 3E7FF78 3E7FF70 608 ms
+20:13:52.155 TimerThread locked up...        Redirecting. Error: 100 6BDEEBEF 3E7FF78 3E7FF70 608 ms
+20:13:52.171 TimerThread locked up...        Redirecting. Error: 100 6BDEEBEF 3E7FF78 3E7FF70 624 ms
+20:13:52.171 TimerThread locked up...        Redirecting. Error: 100 6BDEEBEF 3E7FF78 3E7FF70 624 ms
+20:13:52.171 TimerThread locked up...        Redirecting. Error: 100 6BDEEBEF 3E7FF78 3E7FF70 624 ms
+20:13:52.186 TimerThread locked up...        Redirecting. Error: 100 6BDEEBEF 3E7FF78 3E7FF70 639 ms
+20:13:52.186 TimerThread locked up...        Redirecting. Error: 100 6BDEEBEF 3E7FF78 3E7FF70 639 ms
+20:13:52.186 TimerThread locked up...        Redirecting. Error: 100 6BDEEBEF 3E7FF78 3E7FF70 639 ms
+20:13:52.202 TimerThread locked up...        Redirecting. Error: 100 6BDEEBEF 3E7FF78 3E7FF70 655 ms
+20:13:52.217 TimerThread locked up...        Redirecting. Error: 100 6BDEEBEF 3E7FF78 3E7FF70 670 ms
+20:13:52.217 TimerThread locked up...        Redirecting. Error: 100 6BDEEBEF 3E7FF78 3E7FF70 670 ms
+20:13:52.217 TimerThread locked up...        Redirecting. Error: 100 6BDEEBEF 3E7FF78 3E7FF70 670 ms
+20:13:52.233 TimerThread locked up...        Redirecting. Error: 100 6BDEEBEF 3E7FF78 3E7FF70 686 ms
+20:13:52.233 TimerThread locked up...        Redirecting. Error: 100 6BDEEBEF 3E7FF78 3E7FF70 686 ms
+20:13:52.249 TimerThread not responding...   Restarting. Error: 100 6BDEEBEF 3E7FF78 3E7FF70 702 ms
+20:13:53.763 TimerThread locked up...        Redirecting. Error: 100 6BDEEBEF 3E7FF78 3E7FF70 1216 ms
+20:13:53.763 TimerThread locked up...        Redirecting. Error: 100 6BDEEBEF 3E7FF78 3E7FF70 1216 ms
+20:13:53.779 TimerThread locked up...        Redirecting. Error: 100 6BDEEBEF 3E7FF78 3E7FF70 1232 ms
+20:13:53.795 TimerThread locked up...        Redirecting. Error: 100 6BDEEBEF 3E7FF78 3E7FF70 1248 ms
+20:13:53.795 TimerThread locked up...        Redirecting. Error: 100 6BDEEBEF 3E7FF78 3E7FF70 1248 ms
+20:13:53.795 TimerThread locked up...        Redirecting. Error: 100 6BDEEBEF 3E7FF78 3E7FF70 1248 ms
+20:13:53.810 TimerThread locked up...        Redirecting. Error: 100 6BDEEBEF 3E7FF78 3E7FF70 1263 ms
+20:13:53.810 TimerThread locked up...        Redirecting. Error: 100 6BDEEBEF 3E7FF78 3E7FF70 1263 ms
+20:13:53.826 TimerThread locked up...        Redirecting. Error: 100 6BDEEBEF 3E7FF78 3E7FF70 1279 ms
+20:13:53.826 TimerThread locked up...        Redirecting. Error: 100 6BDEEBEF 3E7FF78 3E7FF70 1279 ms
+20:13:53.826 TimerThread locked up...        Redirecting. Error: 100 6BDEEBEF 3E7FF78 3E7FF70 1279 ms
+20:13:53.841 TimerThread locked up...        Redirecting. Error: 100 6BDEEBEF 3E7FF78 3E7FF70 1294 ms
+20:13:53.841 TimerThread locked up...        Redirecting. Error: 100 6BDEEBEF 3E7FF78 3E7FF70 1294 ms
+20:13:53.841 TimerThread locked up...        Redirecting. Error: 100 6BDEEBEF 3E7FF78 3E7FF70 1294 ms
+20:13:53.857 TimerThread locked up...        Redirecting. Error: 100 6BDEEBEF 3E7FF78 3E7FF70 1310 ms
+20:13:53.857 TimerThread locked up...        Redirecting. Error: 100 6BDEEBEF 3E7FF78 3E7FF70 1310 ms
+20:13:53.873 TimerThread locked up...        Redirecting. Error: 100 6BDEEBEF 3E7FF78 3E7FF70 1326 ms
+20:13:53.873 TimerThread locked up...        Redirecting. Error: 100 6BDEEBEF 3E7FF78 3E7FF70 1326 ms
+20:13:53.951 TimerThread not responding...   Restarting. Error: 100 6BDEEBEF 3E7FF78 3E7FF70 1404 ms
+02:14:00.493 TimerThread not responding...   Restarting. Error: 130 70A0BFBF A55FF78 A55FF70 1108 ms
+22:09:49.427 Elfbot NG 4.5.9 - Entry Started on sábado novembro 26, 2022
+22:09:49.443 TimerThread not responding...   Restarting. Error: -10 6D4AD961 AB8FF78 AB8FF70 0 ms
+23:58:55.962 Elfbot NG 4.5.9 - Entry Started on sábado novembro 26, 2022
+23:58:55.962 TimerThread not responding...   Restarting. Error: -10 6D2DD961 AE4FF78 AE4FF70 15 ms
+11:13:53.490 Elfbot NG 4.5.9 - Entry Started on domingo novembro 27, 2022
+11:13:53.537 TimerThread not responding...   Restarting. Error: -10 6DE7D961 A20FF78 A20FF70 0 ms
+13:38:03.746 Elfbot NG 4.5.9 - Entry Started on domingo novembro 27, 2022
+13:38:03.746 TimerThread not responding...   Restarting. Error: 130 6DBFD961 A40FF78 A40FF70 1155 ms
+18:11:12.556 Elfbot NG 4.5.9 - Entry Started on domingo novembro 27, 2022
+18:11:12.556 TimerThread not responding...   Restarting. Error: -10 6D60D961 AE5FF78 AE5FF70 0 ms
+18:38:30.206 TimerThread not responding...   Restarting. Error: -10 6D60D961 3F4FF78 3F4FF70 16 ms
+18:04:47.734 Elfbot NG 4.5.9 - Entry Started on quarta-feira março 08, 2023
+18:04:47.781 TimerThread locked up...        Redirecting. Error: 100 6956EC4C F41FF60 F41FF58 485 ms
+22:15:14.656 Elfbot NG 4.5.9 - Entry Started on quarta-feira março 08, 2023
+22:15:14.359 TimerThread locked up...        Redirecting. Error: 100 6B39071C F2DFF60 F2DFF58 156 ms
+22:15:14.531 Elfbot NG 4.5.9 - Entry Started on quarta-feira março 08, 2023
+22:15:14.593 TimerThread locked up...        Redirecting. Error: -10 6B3B0A0C F2FFF60 F2FFF58 578 ms
+03:50:21.515 Elfbot NG 4.5.9 - Entry Started on sexta-feira março 10, 2023
+03:50:21.593 TimerThread locked up...        Redirecting. Error: 100 6AC1EC4C F33FF60 F33FF58 531 ms
+03:50:21.671 Locked on hotkey: ' {listas 'Lure' | setcolor 51 153 204} if [$monstersaround.6 >= 4] settargeting on | if [$monstersaround.6 == 0] settargeting off' on command 'settargeting' 640 ms Error: 502 6AC1EC4C F33FF00 F33F714
+03:50:21.781 TimerThread not responding...   Restarting. Error: 100 203BB F33FF60 F33FF58 828 ms
+03:50:21.796 Locked on hotkey: ' {listas 'Lure' | setcolor 51 153 204} if [$monstersaround.6 >= 4] settargeting on | if [$monstersaround.6 == 0] settargeting off' on command 'settargeting' 828 ms Error: 502 203BB F33FF00 F33F714
+05:03:14.343 Elfbot NG 4.5.9 - Entry Started on sexta-feira março 10, 2023
+05:03:14.609 TimerThread not responding...   Restarting. Error: 100 6B350A0C EFAFF60 EFAFF58 1406 ms
+05:03:14.859 Locked on hotkey: ' ifnot $connected { reconnect | gotolabel Start | wait 5000 }' on command 'reconnect' 1688 ms Error: 502 6B350A0C EFAFF00 EFAF714
+05:03:15.125 TimerThread locked up...        Redirecting. Error: 100 6B352C80 EFAFF60 EFAFF58 2109 ms
+05:03:15.718 TimerThread locked up...        Redirecting. Error: 100 6B3506EC B73FF60 B73FF58 484 ms
+05:03:16.921 TimerThread locked up...        Redirecting. Error: 100 6B3506EC B73FF60 B73FF58 500 ms
+05:03:16.343 TimerThread not responding...   Restarting. Error: 100 6B350F8C B73FF60 B73FF58 1109 ms
+05:03:16.859 TimerThread locked up...        Redirecting. Error: 100 6B350F8C B73FF60 B73FF58 1625 ms
+05:03:17.140 TimerThread locked up...        Redirecting. Error: 100 6B350F8C B73FF60 B73FF58 1750 ms
+05:03:17.578 TimerThread not responding...   Restarting. Error: 100 6B350F8C B73FF60 B73FF58 2328 ms
+05:03:18.156 TimerThread locked up...        Redirecting. Error: 100 6B350C7C B73FF60 B73FF58 2922 ms
+05:03:18.796 TimerThread not responding...   Restarting. Error: 100 6B350C7C B73FF60 B73FF58 3406 ms
+05:03:19.234 TimerThread locked up...        Redirecting. Error: 100 6B350C7C B73FF60 B73FF58 4000 ms
+05:03:19.437 TimerThread not responding...   Restarting. Error: 100 6B350C7C B73FF60 B73FF58 4203 ms
+05:03:29.109 TimerThread not responding...   Restarting. Error: 100 6B350C7C B73FF60 B73FF58 13875 ms
+05:55:41.265 Elfbot NG 4.5.9 - Entry Started on sexta-feira março 10, 2023
+05:55:41.281 TimerThread locked up...        Redirecting. Error: 100 6AC6EC4C F2EFF60 F2EFF58 484 ms
+05:55:41.390 Locked on hotkey: ' {listas 'Lure' | setcolor 51 153 204} if [$monstersaround.6 >= 3] settargeting on | if [$monstersaround.6 == 0] settargeting off' on command 'settargeting' 500 ms Error: 502 6AC6EC4C F2EFF00 F2EF714
+05:55:41.578 TimerThread not responding...   Restarting. Error: 100 203BB F2EFF60 F2EFF58 703 ms
+12:57:32.093 Elfbot NG 4.5.9 - Entry Started on sábado março 11, 2023
+12:57:32.140 TimerThread locked up...        Redirecting. Error: -10 6B550A0C ED2FF60 ED2FF58 515 ms
+12:57:32.281 Elfbot NG 4.5.9 - Entry Started on sábado março 11, 2023
+12:57:32.406 TimerThread locked up...        Redirecting. Error: -10 68600A0C 11EAFF60 11EAFF58 500 ms
+11:10:05.062 Elfbot NG 4.5.9 - Entry Started on domingo março 12, 2023
+11:10:05.078 TimerThread not responding...   Restarting. Error: 100 2AE6E EC6FF60 EC6FF58 750 ms
+02:46:17.125 Elfbot NG 4.5.9 - Entry Started on segunda-feira março 13, 2023
+02:46:17.203 TimerThread not responding...   Restarting. Error: -10 6B450A0C E45FF60 E45FF58 0 ms
+23:37:24.296 Elfbot NG 4.5.9 - Entry Started on segunda-feira março 13, 2023
+23:37:24.546 TimerThread locked up...        Redirecting. Error: -10 6A420A0C F73FF60 F73FF58 532 ms
+23:37:41.578 Elfbot NG 4.5.9 - Entry Started on segunda-feira março 13, 2023
+23:37:42.015 TimerThread locked up...        Redirecting. Error: -10 6A0E0A0C FAFFF60 FAFFF58 735 ms
+23:37:42.234 Elfbot NG 4.5.9 - Entry Started on segunda-feira março 13, 2023
+23:37:42.562 TimerThread locked up...        Redirecting. Error: -10 6A420A0C F73FF60 F73FF58 828 ms
+23:37:43.937 TimerThread not responding...   Restarting. Error: -10 6A630A0C F52FF60 F52FF58 844 ms
+23:58:04.421 TimerThread not responding...   Restarting. Error: -10 6A420A0C F73FF60 F73FF58 109 ms
+00:10:37.734 Elfbot NG 4.5.9 - Entry Started on terça-feira março 14, 2023
+00:10:37.093 TimerThread locked up...        Redirecting. Error: -10 6A370A0C F79FF60 F79FF58 500 ms
+01:59:56.828 Elfbot NG 4.5.9 - Entry Started on terça-feira março 14, 2023
+01:59:56.109 TimerThread locked up...        Redirecting. Error: 100 6A460A0C EB4FF60 EB4FF58 500 ms
+01:59:56.203 Locked on hotkey: ' ifnot $connected { reconnect | gotolabel Start | wait 5000 }' on command 'reconnect' 781 ms Error: 502 6A460A0C EB4FF00 EB4F714
+03:00:11.843 TimerThread locked up...        Redirecting. Error: -10 69AB5FAF FAFFF60 FAFFF58 0 ms
+05:02:22.562 Elfbot NG 4.5.9 - Entry Started on quarta-feira março 15, 2023
+05:02:22.656 TimerThread locked up...        Redirecting. Error: 100 68D7EC4C EC2FF60 EC2FF58 610 ms
+05:02:23.859 Locked on hotkey: ' ifnot $connected { reconnect | gotolabel Start | wait 5000 }' on command 'reconnect' 844 ms Error: 502 68D7EC4C EC2FF00 EC2F714
+10:03:55.843 Elfbot NG 4.5.9 - Entry Started on quarta-feira março 15, 2023
+10:03:55.312 TimerThread locked up...        Redirecting. Error: 61 27527 FC5FF60 FC5FF50 0 ms
+10:03:56.968 Elfbot NG 4.5.9 - Entry Started on quarta-feira março 15, 2023
+10:03:56.406 TimerThread locked up...        Redirecting. Error: -10 69150A0C FE5FF60 FE5FF58 641 ms
+13:04:36.937 TimerThread locked up...        Redirecting. Error: 100 69D4AE08 F79FF60 F79FF58 484 ms
+13:54:29.734 TimerThread locked up...        Redirecting. Error: 100 6A370A0C F79FF60 F79FF58 406 ms
+13:54:29.750 Locked on hotkey: ' if [$hp == 0] { reconnect | gotolabel Start } | wait 5000' on command 'reconnect' 422 ms Error: 502 6A370A0C F79FF00 F79F714
+14:00:48.078 Elfbot NG 4.5.9 - Entry Started on quarta-feira março 15, 2023
+14:00:48.296 TimerThread not responding...   Restarting. Error: 100 6716EC4C FF5FF60 FF5FF58 1344 ms
+14:00:48.500 Locked on hotkey: ' ifnot $connected { reconnect | gotolabel Start | wait 5000 }' on command 'reconnect' 1562 ms Error: 502 6716EC4C FF5FF00 FF5F714
+14:00:49.703 TimerThread locked up...        Redirecting. Error: 100 69082C80 FF5FF60 FF5FF58 1969 ms
+19:10:11.593 Elfbot NG 4.5.9 - Entry Started on quarta-feira março 15, 2023
+19:10:12.921 TimerThread locked up...        Redirecting. Error: -10 6A820A0C F89FF60 F89FF58 515 ms
+20:26:38.578 TimerThread not responding...   Restarting. Error: -10 6A820A0C F89FF60 F89FF58 47 ms
+22:19:51.609 Elfbot NG 4.5.9 - Entry Started on quarta-feira março 15, 2023
+22:19:52.781 TimerThread locked up...        Redirecting. Error: 100 6A650A0C FB2FF60 FB2FF58 422 ms
+22:19:52.000 Locked on hotkey: ' if [$hp == 0] { reconnect | gotolabel Start } | wait 5000' on command 'reconnect' 594 ms Error: 502 6A650A0C FB2FF00 FB2F714
+23:26:27.765 Elfbot NG 4.5.9 - Entry Started on quarta-feira março 15, 2023
+23:26:27.000 TimerThread locked up...        Redirecting. Error: 170 68A4B750 F79FF60 F79FF58 0 ms
+23:51:24.375 TimerThread locked up...        Redirecting. Error: -10 6A820A0C D6FF60 D6FF58 563 ms
+23:51:25.437 Elfbot NG 4.5.9 - Entry Started on quarta-feira março 15, 2023
+23:51:26.953 TimerThread locked up...        Redirecting. Error: -10 6AA30A0C F68FF60 F68FF58 562 ms
+23:59:01.359 TimerThread locked up...        Redirecting. Error: -10 6A820A0C D6FF60 D6FF58 718 ms
+23:59:02.687 Locked on hotkey: Error #4 0 ms
+23:59:03.140 Elfbot NG 4.5.9 - Entry Started on quarta-feira março 15, 2023
+23:59:04.984 Elfbot NG 4.5.9 - Entry Started on quarta-feira março 15, 2023
+23:59:04.515 TimerThread locked up...        Redirecting. Error: -10 6AAC0A0C F65FF60 F65FF58 563 ms
+23:59:05.109 TimerThread locked up...        Redirecting. Error: -10 68340A0C FF9FF60 FF9FF58 703 ms
+23:59:06.921 TimerThread locked up...        Redirecting. Error: -10 6A980A0C F79FF60 F79FF58 703 ms
+23:59:11.765 TimerThread locked up...        Redirecting. Error: -10 68340A0C FF9FF60 FF9FF58 531 ms
+23:59:12.531 TimerThread locked up...        Redirecting. Error: -10 6A980A0C F79FF60 F79FF58 516 ms
+23:59:20.859 TimerThread locked up...        Redirecting. Error: 100 28D9E FB2FF60 FB2FF58 31 ms
+00:01:36.375 Elfbot NG 4.5.9 - Entry Started on quinta-feira março 16, 2023
+00:01:37.062 TimerThread locked up...        Redirecting. Error: -10 6AFA0A0C F16FF60 F16FF58 532 ms
+00:01:38.734 TimerThread locked up...        Redirecting. Error: -10 6A980A0C F79FF60 F79FF58 563 ms
+02:40:04.421 TimerThread not responding...   Restarting. Error: 100 6A1EEC4C F16FF60 F16FF58 672 ms
+02:40:04.578 Locked on hotkey: ' ifnot $connected { reconnect | gotolabel Start | wait 5000 }' on command 'reconnect' 968 ms Error: 502 6A1EEC4C F16FF00 F16F714
+02:40:05.890 TimerThread locked up...        Redirecting. Error: 100 6AFA2C80 F16FF60 F16FF58 1328 ms
+02:40:05.468 TimerThread locked up...        Redirecting. Error: 100 6AFA0E5C B67FF60 B67FF58 500 ms
+02:40:05.640 TimerThread locked up...        Redirecting. Error: 100 6AFA0F8C B67FF60 B67FF58 657 ms
+02:40:06.078 TimerThread not responding...   Restarting. Error: 100 6AFA0F8C B67FF60 B67FF58 907 ms
+02:40:06.453 TimerThread locked up...        Redirecting. Error: 100 6AFA0F8C B67FF60 B67FF58 1485 ms
+02:40:06.578 TimerThread locked up...        Redirecting. Error: 100 6AFA0F8C B67FF60 B67FF58 1516 ms
+02:40:07.921 TimerThread not responding...   Restarting. Error: 100 6AFA0F8C B67FF60 B67FF58 1844 ms
+02:40:07.312 TimerThread locked up...        Redirecting. Error: 100 6AFA0F8C B67FF60 B67FF58 2344 ms
+02:40:07.609 TimerThread locked up...        Redirecting. Error: 100 6AFA0F8C B67FF60 B67FF58 2360 ms
+02:40:08.906 TimerThread not responding...   Restarting. Error: 100 6AFA0F8C B67FF60 B67FF58 2688 ms
+02:40:08.218 TimerThread locked up...        Redirecting. Error: 100 6AFA0F8C B67FF60 B67FF58 3250 ms
+02:40:08.390 TimerThread locked up...        Redirecting. Error: 100 6AFA0F8C B67FF60 B67FF58 3282 ms
+02:40:09.734 TimerThread not responding...   Restarting. Error: 100 6AFA0C7C B67FF60 B67FF58 3657 ms
+02:40:09.125 TimerThread locked up...        Redirecting. Error: 100 6AFA0C7C B67FF60 B67FF58 4157 ms
+02:40:09.593 TimerThread locked up...        Redirecting. Error: 100 6AFA0C7C B67FF60 B67FF58 4328 ms
+02:40:10.703 TimerThread not responding...   Restarting. Error: 100 6AFA0C7C B67FF60 B67FF58 4641 ms
+02:40:10.140 TimerThread locked up...        Redirecting. Error: 100 6AFA0C7C B67FF60 B67FF58 5172 ms
